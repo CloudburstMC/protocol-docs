@@ -1,0 +1,34 @@
+# MapDecoration::Type
+
+Index | Name
+--- | ---
+0 | MarkerWhite
+1 | MarkerGreen
+2 | MarkerRed
+3 | MarkerBlue
+4 | XWhite
+5 | TriangleRed
+6 | SquareWhite
+7 | MarkerSign
+8 | MarkerPink
+9 | MarkerOrange
+10 | MarkerYellow
+11 | MarkerTeal
+12 | TriangleGreen
+13 | SmallSquareWhite
+14 | Mansion
+15 | Monument
+16 | NoDraw
+17 | VillageDesert
+18 | VillagePlains
+19 | VillageSavanna
+20 | VillageSnowy
+21 | VillageTaiga
+22 | JungleTemple
+23 | WitchHut
+24 | Count
+MarkerWhite | Player
+SquareWhite | PlayerOffMap
+SmallSquareWhite | PlayerOffLimits
+NoDraw | PlayerHidden
+MarkerGreen | ItemFrame

@@ -1,0 +1,35 @@
+# LegacyTelemetryEventPacket::Type
+
+Index | Name
+--- | ---
+0 | Achievement
+1 | Interaction
+2 | PortalCreated
+3 | PortalUsed
+4 | MobKilled
+5 | CauldronUsed
+6 | PlayerDied
+7 | BossKilled
+8 | AgentCommand_OBSOLETE
+9 | AgentCreated
+10 | PatternRemoved_OBSOLETE
+11 | SlashCommand
+12 | Deprecated_FishBucketed
+13 | MobBorn
+14 | PetDied_OBSOLETE
+15 | POICauldronUsed
+16 | ComposterUsed
+17 | BellUsed
+18 | ActorDefinition
+19 | RaidUpdate
+20 | PlayerMovementAnomaly_OBSOLETE
+21 | PlayerMovementCorrected_OBSOLETE
+22 | HoneyHarvested
+23 | TargetBlockHit
+24 | PiglinBarter
+25 | PlayerWaxedOrUnwaxedCopper
+26 | CodeBuilderRuntimeAction
+27 | CodeBuilderScoreboard
+28 | StriderRiddenInLavaInOverworld
+29 | SneakCloseToSculkSensor
+30 | CarefulRestoration

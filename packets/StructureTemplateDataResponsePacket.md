@@ -1,0 +1,20 @@
+# StructureTemplateDataResponsePacket
+
+__ID: 133__
+
+Used to reply to a request for structure information.This is used in exporting from load, exporting from save, and querying saved structures from structure blocks.
+
+<table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
+<tr><td>Structure Name</td><td>string</td></tr>
+<tr><td>Dependency on 'Requested structure exists?'</td><td><b>if (0)</b><br>
+  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
+  <tr><td>Failure</td><td>bool</td></tr>
+  <tr><td>Response Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/StructureTemplateResponseType.md">StructureTemplateResponseType</a></td></tr></tbody></table></td></tr>
+  </tbody></table><hr>
+  <b>if (1)</b><br>
+  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
+  <tr><td>Success</td><td>bool</td></tr>
+  <tr><td>Structure's NBT</td><td><a href="../types/CompoundTag.md">CompoundTag</a></td></tr>
+  <tr><td>Response Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/StructureTemplateResponseType.md">StructureTemplateResponseType</a></td></tr></tbody></table></td></tr>
+  </tbody></table></td></tr>
+</tbody></table>
