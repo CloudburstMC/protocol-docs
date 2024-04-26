@@ -20,4 +20,5 @@ This is sent to the client in response to a ResourcePackClientResponsePacket whi
   </tbody></table></td></tr>
 <tr><td>Base Game Version</td><td><a href="../types/BaseGameVersion.md">BaseGameVersion</a></td></tr>
 <tr><td>Experiments</td><td><a href="../types/Experiments.md">Experiments</a></td></tr>
+<tr><td>Include Editor Packs</td><td>bool</td></tr>
 </tbody></table>

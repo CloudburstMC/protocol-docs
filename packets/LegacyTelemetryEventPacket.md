@@ -6,7 +6,7 @@ This is a legacy packet and should not be used anymore, although server side tel
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
-<tr><td>Event Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/LegacyTelemetryEventPacket_Type.md">LegacyTelemetryEventPacket::Type</a></td></tr></tbody></table></td></tr>
+<tr><td>Event Type</td><td>varint</td></tr>
 <tr><td>Use Player ID</td><td>byte</td></tr>
 <tr><td>Dependency on 'Event Type'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
@@ -14,8 +14,9 @@ This is a legacy packet and should not be used anymore, although server side tel
   </tbody></table><hr>
   <b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Interaction Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/MinecraftEventing_InteractionType.md">MinecraftEventing::InteractionType</a></td></tr></tbody></table></td></tr>
-  <tr><td>Interaction Actor Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/ActorType.md">ActorType</a></td></tr></tbody></table></td></tr>
+  <tr><td>Interacted Entity ID</td><td>varint64</td></tr>
+  <tr><td>Interaction Type</td><td>varint</td></tr>
+  <tr><td>Interaction Actor Type</td><td>varint</td></tr>
   <tr><td>Interaction Actor Variant</td><td>varint</td></tr>
   <tr><td>Interaction Actor Color</td><td>byte</td></tr>
   </tbody></table><hr>
@@ -32,8 +33,8 @@ This is a legacy packet and should not be used anymore, although server side tel
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Instigator Actor ID</td><td>varint64</td></tr>
   <tr><td>Target Actor ID</td><td>varint64</td></tr>
-  <tr><td>Instigator's Child Actor Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/ActorType.md">ActorType</a></td></tr></tbody></table></td></tr>
-  <tr><td>Damage Source</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/ActorDamageCause.md">ActorDamageCause</a></td></tr></tbody></table></td></tr>
+  <tr><td>Instigator's Child Actor Type</td><td>varint</td></tr>
+  <tr><td>Damage Source</td><td>varint</td></tr>
   <tr><td>Trade Tier</td><td><table><tbody><tr><td>varint</td><td>-1 if not a trading actor.</td></tr></tbody></table></td></tr>
   <tr><td>Trader Name</td><td><table><tbody><tr><td>string</td><td>Empty if not a trading actor.</td></tr></tbody></table></td></tr>
   </tbody></table><hr>
@@ -47,18 +48,18 @@ This is a legacy packet and should not be used anymore, although server side tel
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Instigator Actor ID</td><td>varint</td></tr>
   <tr><td>Instigator Mob Variant</td><td>varint</td></tr>
-  <tr><td>Damage Source</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/ActorDamageCause.md">ActorDamageCause</a></td></tr></tbody></table></td></tr>
+  <tr><td>Damage Source</td><td>varint</td></tr>
   <tr><td>Died in Raid?</td><td>bool</td></tr>
   </tbody></table><hr>
   <b>if (7)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Boss Actor ID</td><td>varint64</td></tr>
   <tr><td>Party Size</td><td>varint</td></tr>
-  <tr><td>Boss Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/ActorType.md">ActorType</a></td></tr></tbody></table></td></tr>
+  <tr><td>Boss Type</td><td>varint</td></tr>
   </tbody></table><hr>
   <b>if (8)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Result</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/LegacyTelemetryEventPacket_AgentResult.md">LegacyTelemetryEventPacket::AgentResult</a></td></tr></tbody></table></td></tr>
+  <tr><td>Result</td><td>varint</td></tr>
   <tr><td>Result Number</td><td>varint</td></tr>
   <tr><td>Command Name</td><td>string</td></tr>
   <tr><td>Result Key</td><td>string</td></tr>
@@ -79,12 +80,12 @@ This is a legacy packet and should not be used anymore, although server side tel
   </tbody></table><hr>
   <b>if (15)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Block Interaction Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/MinecraftEventing_POIBlockInteractionType.md">MinecraftEventing::POIBlockInteractionType</a></td></tr></tbody></table></td></tr>
+  <tr><td>Block Interaction Type</td><td>varint</td></tr>
   <tr><td>Item Id</td><td><table><tbody><tr><td>varint</td><td>Id of the relevant item used in the interaction.</td></tr></tbody></table></td></tr>
   </tbody></table><hr>
   <b>if (16)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Block Interaction Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/MinecraftEventing_POIBlockInteractionType.md">MinecraftEventing::POIBlockInteractionType</a></td></tr></tbody></table></td></tr>
+  <tr><td>Block Interaction Type</td><td>varint</td></tr>
   <tr><td>Item Id</td><td><table><tbody><tr><td>varint</td><td>Id of the relevant item used in the interaction.</td></tr></tbody></table></td></tr>
   </tbody></table><hr>
   <b>if (17)</b><br>

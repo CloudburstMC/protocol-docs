@@ -9,6 +9,6 @@ Used to sync moving blocks with clients so they render correctlyVariation of Upd
 <tr><td>Block Runtime ID</td><td>unsigned varint</td></tr>
 <tr><td>Flags</td><td>unsigned varint</td></tr>
 <tr><td>Layer</td><td>unsigned varint</td></tr>
-<tr><td>Unique Actor Id</td><td><table><tbody><tr><td>varint64</td><td>Id for the Moving Block Actor</td></tr></tbody></table></td></tr>
-<tr><td>Actor Sync Message</td><td><table><tbody><tr><td>varint64</td><td><a href="../enums/ActorBlockSyncMessage_MessageId.md">ActorBlockSyncMessage::MessageId</a></td></tr></tbody></table></td></tr>
+<tr><td>Unique Actor Id</td><td><table><tbody><tr><td>unsigned varint64</td><td>Id for the Moving Block Actor</td></tr></tbody></table></td></tr>
+<tr><td>Actor Sync Message</td><td>unsigned varint64</td></tr>
 </tbody></table>

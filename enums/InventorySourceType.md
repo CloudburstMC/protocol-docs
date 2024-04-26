@@ -2,7 +2,7 @@
 
 Index | Name
 --- | ---
-std::numeric_limits::max() | InvalidInventory
+std::numeric_limits<uint32_t>::max() | InvalidInventory
 0 | ContainerInventory
 1 | GlobalInventory
 2 | WorldInteraction

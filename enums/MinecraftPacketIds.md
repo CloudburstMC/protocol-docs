@@ -165,7 +165,7 @@ Index | Name
 160 | PlayerFogSetting
 161 | CorrectPlayerMovePredictionPacket
 162 | ItemComponentPacket
-163 | FilterTextPacket
+163 | FilterTextPacket_DEPRECATED
 164 | ClientBoundDebugRendererPacket
 165 | SyncActorProperty
 166 | AddVolumeEntityPacket

@@ -6,7 +6,7 @@ At the start of the game the server sends any mob effects with _sendAdditionalLe
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Target Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
-<tr><td>Event ID</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/MobEffectPacket_Event.md">MobEffectPacket::Event</a></td></tr></tbody></table></td></tr>
+<tr><td>Event ID</td><td>byte</td></tr>
 <tr><td>Effect ID</td><td>varint</td></tr>
 <tr><td>Effect Amplifier</td><td>varint</td></tr>
 <tr><td>Show Particles</td><td>bool</td></tr>

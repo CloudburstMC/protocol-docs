@@ -9,5 +9,5 @@ A client sends this to the server to notify other clients about the emote.Sent i
 <tr><td>Emote Id</td><td>string</td></tr>
 <tr><td>Xuid</td><td>string</td></tr>
 <tr><td>PlatformId</td><td>string</td></tr>
-<tr><td>Flags</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/EmotePacket_Flags.md">EmotePacket::Flags</a></td></tr></tbody></table></td></tr>
+<tr><td>Flags</td><td>byte</td></tr>
 </tbody></table>

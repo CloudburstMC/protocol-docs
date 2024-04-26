@@ -6,6 +6,6 @@ Sent as a handshake between the client and server to respawn the player. For som
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Position</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
-<tr><td>State</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/PlayerRespawnState.md">PlayerRespawnState</a></td></tr></tbody></table></td></tr>
+<tr><td>State</td><td>byte</td></tr>
 <tr><td>Player Runtime Id</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
 </tbody></table>

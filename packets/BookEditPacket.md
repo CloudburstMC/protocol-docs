@@ -5,7 +5,7 @@ __ID: 97__
 Sends the updated state of the book and quill item from client to server during use, i.e. before you sign it, making it uneditible.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Action</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/BookEditAction.md">BookEditAction</a></td></tr></tbody></table></td></tr>
+<tr><td>Action</td><td>byte</td></tr>
 <tr><td>Book Slot</td><td>byte</td></tr>
 <tr><td>Dependency on 'Action'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

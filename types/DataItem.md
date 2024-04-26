@@ -2,7 +2,7 @@
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>ID</td><td>unsigned varint</td></tr>
-<tr><td>Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/DataItemType.md">DataItemType</a></td></tr></tbody></table></td></tr>
+<tr><td>Type</td><td>unsigned varint</td></tr>
 <tr><td>Dependency on 'Type'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Value</td><td>byte</td></tr>

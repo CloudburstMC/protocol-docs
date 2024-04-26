@@ -2,7 +2,6 @@
 
 Index | Name
 --- | ---
-3617 | 9800
 0 | Undefined
 1000 | SoundClick
 1001 | SoundClickFail

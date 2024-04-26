@@ -26,7 +26,8 @@ Index | Name
 21 | VillageTaiga
 22 | JungleTemple
 23 | WitchHut
-24 | Count
+24 | TrialChambers
+25 | Count
 MarkerWhite | Player
 SquareWhite | PlayerOffMap
 SmallSquareWhite | PlayerOffLimits

@@ -7,7 +7,7 @@ Sent from the server to client when the game is starting (or client joins), give
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
 <tr><td>Target Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
-<tr><td>Actor Game Type</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/GameType.md">GameType</a></td></tr></tbody></table></td></tr>
+<tr><td>Actor Game Type</td><td>varint</td></tr>
 <tr><td>Position</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
 <tr><td>Rotation</td><td><a href="../types/Vec2.md">Vec2</a></td></tr>
 <tr><td>Settings</td><td><a href="../types/LevelSettings.md">LevelSettings</a></td></tr>

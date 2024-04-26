@@ -13,4 +13,5 @@
 <tr><td>Recipe ID</td><td><a href="../types/mce_UUID.md">mce::UUID</a></td></tr>
 <tr><td>Recipe Tag</td><td>string</td></tr>
 <tr><td>Priority</td><td>varint</td></tr>
+<tr><td>Assume Symmetry</td><td>bool</td></tr>
 </tbody></table>

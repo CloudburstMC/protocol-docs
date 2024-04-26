@@ -10,5 +10,5 @@ This is used for the scoreboard and tag systems (overwhelmingly used by 3rd part
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Enum Value</td><td>string</td></tr>
   </tbody></table></td></tr>
-<tr><td>Update Type</td><td><table><tbody><tr><td>unsigned int</td><td><a href="../enums/SoftEnumUpdateType.md">SoftEnumUpdateType</a></td></tr></tbody></table></td></tr>
+<tr><td>Update Type</td><td>byte</td></tr>
 </tbody></table>

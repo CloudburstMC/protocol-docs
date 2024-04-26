@@ -10,9 +10,9 @@ Added for Server Authoritative Movement to sync all player input with the server
 <tr><td>Move Vector</td><td><a href="../types/Vec2.md">Vec2</a></td></tr>
 <tr><td>Player's Head Rotation</td><td>float</td></tr>
 <tr><td>Input Data</td><td>unsigned varint64</td></tr>
-<tr><td>Input Mode</td><td><table><tbody><tr><td>unsigned varint</td><td><a href="../enums/InputMode.md">InputMode</a></td></tr></tbody></table></td></tr>
-<tr><td>Play Mode</td><td><table><tbody><tr><td>unsigned varint</td><td><a href="../enums/ClientPlayMode.md">ClientPlayMode</a></td></tr></tbody></table></td></tr>
-<tr><td>New Interaction Model</td><td><table><tbody><tr><td>varint</td><td><a href="../enums/NewInteractionModel.md">NewInteractionModel</a></td></tr></tbody></table></td></tr>
+<tr><td>Input Mode</td><td>unsigned varint</td></tr>
+<tr><td>Play Mode</td><td>unsigned varint</td></tr>
+<tr><td>New Interaction Model</td><td>unsigned varint</td></tr>
 <tr><td>Dependency on 'Play Mode == ClientPlayMode::Reality'</td><td><b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>VR Gaze Direction</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
@@ -25,11 +25,11 @@ Added for Server Authoritative Movement to sync all player input with the server
   </tbody></table></td></tr>
 <tr><td>Dependency on 'ItemStackRequest and PerformItemStackRequest bit set'</td><td><b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Client Request Id</td><td><a href="../types/TypedClientNetId_ItemStackRequestIdTag.md">TypedClientNetId<struct ItemStackRequestIdTag,int,0></a></td></tr>
+  <tr><td>Client Request Id</td><td><a href="../types/TypedClientNetId_ItemStackRequestIdTag.md">TypedClientNetId&lt;struct ItemStackRequestIdTag,int,0&gt;</a></td></tr>
   <tr><td>Actions</td><td><b>Array Size:</b> unsigned varint
     There are a variety of possible actions each with their own schema; this (Take) is just one example. Refer to the Item Stack Net Manager documentation.  
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-    <tr><td>Action type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/ItemStackRequestActionType.md">ItemStackRequestActionType</a></td></tr></tbody></table></td></tr>
+    <tr><td>Action type</td><td>byte</td></tr>
     <tr><td>Amount</td><td>byte</td></tr>
     <tr><td>Source</td><td><a href="../types/ItemStackRequestSlotInfo.md">ItemStackRequestSlotInfo</a></td></tr>
     <tr><td>Destination</td><td><a href="../types/ItemStackRequestSlotInfo.md">ItemStackRequestSlotInfo</a></td></tr>
@@ -39,7 +39,7 @@ Added for Server Authoritative Movement to sync all player input with the server
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>String To Filter</td><td><table><tbody><tr><td>string</td><td>Indivdiual string that needs checking</td></tr></tbody></table></td></tr>
     </tbody></table></td></tr>
-  <tr><td>StringsToFilterOrigin</td><td><table><tbody><tr><td>int</td><td><a href="../enums/TextProcessingEventOrigin.md">TextProcessingEventOrigin</a></td></tr></tbody></table></td></tr>
+  <tr><td>StringsToFilterOrigin</td><td>int</td></tr>
   </tbody></table></td></tr>
 <tr><td>Dependency on 'PerformBlockActions bit set'</td><td><b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

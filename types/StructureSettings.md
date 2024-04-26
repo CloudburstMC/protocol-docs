@@ -8,9 +8,9 @@
 <tr><td>Structure Size</td><td><a href="../types/NetworkBlockPosition.md">NetworkBlockPosition</a></td></tr>
 <tr><td>Structure Offset</td><td><a href="../types/NetworkBlockPosition.md">NetworkBlockPosition</a></td></tr>
 <tr><td>Last Edit Player</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
-<tr><td>Rotation</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/Rotation.md">Rotation</a></td></tr></tbody></table></td></tr>
-<tr><td>Mirror</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/Mirror.md">Mirror</a></td></tr></tbody></table></td></tr>
-<tr><td>Animation Mode</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/AnimationMode.md">AnimationMode</a></td></tr></tbody></table></td></tr>
+<tr><td>Rotation</td><td>byte</td></tr>
+<tr><td>Mirror</td><td>byte</td></tr>
+<tr><td>Animation Mode</td><td>byte</td></tr>
 <tr><td>Animation Seconds</td><td>float</td></tr>
 <tr><td>Integrity Value</td><td>float</td></tr>
 <tr><td>Integrity Seed</td><td>unsigned int</td></tr>

@@ -154,7 +154,6 @@
 | 160 | [PlayerFogPacket](packets/PlayerFogPacket.md) |
 | 161 | [CorrectPlayerMovePredictionPacket](packets/CorrectPlayerMovePredictionPacket.md) |
 | 162 | [ItemComponentPacket](packets/ItemComponentPacket.md) |
-| 163 | [FilterTextPacket](packets/FilterTextPacket.md) |
 | 164 | [ClientboundDebugRendererPacket](packets/ClientboundDebugRendererPacket.md) |
 | 165 | [SyncActorPropertyPacket](packets/SyncActorPropertyPacket.md) |
 | 166 | [AddVolumeEntityPacket](packets/AddVolumeEntityPacket.md) |

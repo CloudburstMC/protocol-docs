@@ -6,7 +6,7 @@ __ID: 79__
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Origin Data</td><td><a href="../types/CommandOriginData.md">CommandOriginData</a></td></tr>
-<tr><td>Output Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/CommandOutputType.md">CommandOutputType</a></td></tr></tbody></table></td></tr>
+<tr><td>Output Type</td><td>byte</td></tr>
 <tr><td>Success Count</td><td>unsigned varint</td></tr>
 <tr><td>Output Messages</td><td><b>Array Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

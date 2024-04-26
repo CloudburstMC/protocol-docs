@@ -1,7 +1,7 @@
 # MapDecoration
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Map Decoration Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/MapDecoration_Type.md">MapDecoration::Type</a></td></tr></tbody></table></td></tr>
+<tr><td>Map Decoration Type</td><td>byte</td></tr>
 <tr><td>Rotation</td><td>byte</td></tr>
 <tr><td>X</td><td>byte</td></tr>
 <tr><td>Y</td><td>byte</td></tr>

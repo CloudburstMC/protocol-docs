@@ -18,6 +18,6 @@ __ID: 30__
       </tbody></table></td></tr>
     </tbody></table></td></tr>
   </tbody></table></td></tr>
-<tr><td>Transaction Type</td><td><table><tbody><tr><td>unsigned varint</td><td><a href="../enums/ComplexInventoryTransaction_Type.md">ComplexInventoryTransaction::Type</a></td></tr></tbody></table></td></tr>
+<tr><td>Transaction Type</td><td>unsigned varint</td></tr>
 <tr><td>mTransaction->mTransaction</td><td><a href="../types/InventoryTransaction.md">InventoryTransaction</a></td></tr>
 </tbody></table>

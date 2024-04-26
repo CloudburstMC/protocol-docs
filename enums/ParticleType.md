@@ -94,4 +94,5 @@ Index | Name
 89 | WhiteSmoke
 90 | VaultConnection
 91 | WindExplosion
-92 | _count
+92 | WolfArmorCrack
+93 | _count

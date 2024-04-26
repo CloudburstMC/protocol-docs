@@ -5,7 +5,7 @@ __ID: 33__
 Used for inventory button press and in _updateInteraction() for a variety of purposes.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Action</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/InteractPacket_Action.md">InteractPacket::Action</a></td></tr></tbody></table></td></tr>
+<tr><td>Action</td><td>byte</td></tr>
 <tr><td>Target Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
 <tr><td>Dependency on 'Action == InteractUpdate || Action == StopRiding'</td><td><b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

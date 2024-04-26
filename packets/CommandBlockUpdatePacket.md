@@ -13,7 +13,7 @@ Sent when you close the command block screen on the client
   <b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Block Position</td><td><a href="../types/NetworkBlockPosition.md">NetworkBlockPosition</a></td></tr>
-  <tr><td>Command Block Mode</td><td><table><tbody><tr><td>unsigned varint</td><td><a href="../enums/CommandBlockMode.md">CommandBlockMode</a></td></tr></tbody></table></td></tr>
+  <tr><td>Command Block Mode</td><td>unsigned varint</td></tr>
   <tr><td>Redstone Mode</td><td>bool</td></tr>
   <tr><td>Is Conditional?</td><td>bool</td></tr>
   </tbody></table></td></tr>

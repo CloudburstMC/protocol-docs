@@ -19,8 +19,8 @@ Occasionally updating player attributes (buffs/debuffs, health, etc)
     <tr><td>ID</td><td>string</td></tr>
     <tr><td>Name</td><td>string</td></tr>
     <tr><td>Amount</td><td>float</td></tr>
-    <tr><td>Operation</td><td><table><tbody><tr><td>int</td><td><a href="../enums/AttributeModifierOperation.md">AttributeModifierOperation</a></td></tr></tbody></table></td></tr>
-    <tr><td>Operand</td><td><table><tbody><tr><td>int</td><td><a href="../enums/AttributeOperands.md">AttributeOperands</a></td></tr></tbody></table></td></tr>
+    <tr><td>Operation</td><td>int</td></tr>
+    <tr><td>Operand</td><td>int</td></tr>
     <tr><td>isSerializable?</td><td>bool</td></tr>
     </tbody></table></td></tr>
   </tbody></table></td></tr>

@@ -6,7 +6,7 @@ This is sent either if the user is creating a new map, if a map that exists cann
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Map ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
-<tr><td>Type Flags</td><td><table><tbody><tr><td>unsigned varint</td><td><a href="../enums/ClientboundMapItemDataPacket_Type.md">ClientboundMapItemDataPacket::Type</a></td></tr></tbody></table></td></tr>
+<tr><td>Type Flags</td><td>unsigned varint</td></tr>
 <tr><td>Dimension</td><td>byte</td></tr>
 <tr><td>Is Locked Map?</td><td>bool</td></tr>
 <tr><td>Map Origin</td><td><a href="../types/BlockPos.md">BlockPos</a></td></tr>

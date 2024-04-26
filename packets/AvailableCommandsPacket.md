@@ -53,7 +53,7 @@ This very large packet (>10k) sends the available slash commands as part of the 
   <tr><td>Name</td><td>string</td></tr>
   <tr><td>Description</td><td>string</td></tr>
   <tr><td>Flags</td><td>unsigned short</td></tr>
-  <tr><td>Permission Level</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/CommandPermissionLevel.md">CommandPermissionLevel</a></td></tr></tbody></table></td></tr>
+  <tr><td>Permission Level</td><td>byte</td></tr>
   <tr><td>Alias Enum</td><td>int</td></tr>
   <tr><td>CommandData Chained Subcommand Indexes</td><td><b>Array Size:</b> unsigned varint
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

@@ -6,5 +6,5 @@ Send server to client to complete the using item process. An example is when you
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Item Id</td><td>short</td></tr>
-<tr><td>Item Use Method</td><td><table><tbody><tr><td>int</td><td><a href="../enums/ItemUseMethod.md">ItemUseMethod</a></td></tr></tbody></table></td></tr>
+<tr><td>Item Use Method</td><td>int</td></tr>
 </tbody></table>

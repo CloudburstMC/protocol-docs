@@ -9,5 +9,5 @@ A bunch of things use this both server to client and can still be sent from the 
 <tr><td>Item</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
 <tr><td>Slot</td><td>byte</td></tr>
 <tr><td>Selected Slot</td><td>byte</td></tr>
-<tr><td>Container ID</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/ContainerID.md">ContainerID</a></td></tr></tbody></table></td></tr>
+<tr><td>Container ID</td><td>byte</td></tr>
 </tbody></table>

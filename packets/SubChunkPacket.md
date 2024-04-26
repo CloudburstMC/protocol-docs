@@ -11,12 +11,12 @@ Sent from server to client representing a batch of subchunk data and the require
 <tr><td>SubChunk Data List</td><td><b>SubChunk Pos Offsets Size:</b> unsigned int
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>SubChunk Pos Offset</td><td><a href="../types/SubChunkPacket_SubChunkPosOffset.md">SubChunkPacket::SubChunkPosOffset</a></td></tr>
-  <tr><td>SubChunk Request Result</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/SubChunkPacket_SubChunkRequestResult.md">SubChunkPacket::SubChunkRequestResult</a></td></tr></tbody></table></td></tr>
+  <tr><td>SubChunk Request Result</td><td>byte</td></tr>
   <tr><td>Dependency on 'Is SubChunk Request Result SuccessAllAir? or Cache Enabled?'</td><td><b>if (1)</b><br>
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Serialized Sub Chunk</td><td>string</td></tr>
     </tbody></table></td></tr>
-  <tr><td>Height Map Data Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/SubChunkPacket_HeightMapDataType.md">SubChunkPacket::HeightMapDataType</a></td></tr></tbody></table></td></tr>
+  <tr><td>Height Map Data Type</td><td>byte</td></tr>
   <tr><td>Dependency on 'Height Map Has Data'</td><td><b>if (1)</b><br>
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Subchunk Height Map[0][0]</td><td>byte</td></tr>

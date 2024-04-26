@@ -5,8 +5,8 @@ __ID: 80__
 This is used when the player trades with an npc. This sends all of the updated trade info in one big ol' packet.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Container Id</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/ContainerID.md">ContainerID</a></td></tr></tbody></table></td></tr>
-<tr><td>Container Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/ContainerType.md">ContainerType</a></td></tr></tbody></table></td></tr>
+<tr><td>Container Id</td><td>byte</td></tr>
+<tr><td>Container Type</td><td>byte</td></tr>
 <tr><td>Size</td><td>varint</td></tr>
 <tr><td>Trade Tier</td><td>varint</td></tr>
 <tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>

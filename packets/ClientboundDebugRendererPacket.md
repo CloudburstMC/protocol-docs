@@ -5,7 +5,7 @@ __ID: 164__
 Sent from the server to client to add/remove debug rendering objects
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Debug Marker Type</td><td><table><tbody><tr><td>unsigned varint</td><td><a href="../enums/ClientboundDebugRendererPacket_Type.md">ClientboundDebugRendererPacket::Type</a></td></tr></tbody></table></td></tr>
+<tr><td>Debug Marker Type</td><td>unsigned int</td></tr>
 <tr><td>Dependency on 'Debug Marker Type'</td><td><b>if (2)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Debug Marker Text</td><td>string</td></tr>

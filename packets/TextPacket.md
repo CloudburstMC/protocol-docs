@@ -5,7 +5,7 @@ __ID: 9__
 Used for commands, messages, and other info printed to the screen. Most of which are server->client or server broadcasted to all clients,
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Message Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/TextPacketType.md">TextPacketType</a></td></tr></tbody></table></td></tr>
+<tr><td>Message Type</td><td>byte</td></tr>
 <tr><td>Localize?</td><td>bool</td></tr>
 <tr><td>Dependency on 'Message Type'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

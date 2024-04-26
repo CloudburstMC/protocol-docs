@@ -12,9 +12,9 @@
   <tr><td>Image Width</td><td>unsigned int</td></tr>
   <tr><td>Image Height</td><td>unsigned int</td></tr>
   <tr><td>Image Bytes</td><td><table><tbody><tr><td>string</td><td>Serialized into a string</td></tr></tbody></table></td></tr>
-  <tr><td>Animation Type</td><td><table><tbody><tr><td>unsigned int</td><td><a href="../enums/persona_AnimatedTextureType.md">persona::AnimatedTextureType</a></td></tr></tbody></table></td></tr>
+  <tr><td>Animation Type</td><td>unsigned int</td></tr>
   <tr><td>Frame Count</td><td>float</td></tr>
-  <tr><td>Animation Expression</td><td><table><tbody><tr><td>unsigned int</td><td><a href="../enums/persona_AnimationExpression.md">persona::AnimationExpression</a></td></tr></tbody></table></td></tr>
+  <tr><td>Animation Expression</td><td>unsigned int</td></tr>
   </tbody></table></td></tr>
 <tr><td>CapeImage Width</td><td>unsigned int</td></tr>
 <tr><td>CapeImage Height</td><td>unsigned int</td></tr>

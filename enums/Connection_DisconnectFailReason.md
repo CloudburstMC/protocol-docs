@@ -111,3 +111,10 @@ Index | Name
 106 | RequestServerShutdown
 107 | ClientGameSetupCancelled
 108 | ClientGameSetupFailed
+109 | NoVenue
+110 | NetherNetSignalingSigninFailed
+111 | SessionAccessDenied
+112 | ServiceSigninIssue
+113 | NetherNetNoSignalingChannel
+114 | NetherNetNotLoggedIn
+115 | NetherNetClientSignalingError

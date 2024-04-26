@@ -1,7 +1,7 @@
 # CompoundTag
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Tag Type</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/Tag_Type.md">Tag::Type</a></td></tr></tbody></table></td></tr>
+<tr><td>Tag Type</td><td>byte</td></tr>
 <tr><td>Dependency on 'if 'Tag Type' is 0'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Tag Name</td><td>string</td></tr>
@@ -44,11 +44,11 @@
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Dependency on 'if empty list'</td><td><b>if (0)</b><br>
       <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-      <tr><td>Tag Type for list</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/Tag_Type.md">Tag::Type</a></td></tr></tbody></table></td></tr>
+      <tr><td>Tag Type for list</td><td>byte</td></tr>
       </tbody></table><hr>
       <b>if (1)</b><br>
       <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-      <tr><td>Tag Type (must be 1)</td><td><table><tbody><tr><td>byte</td><td><a href="../enums/Tag_Type.md">Tag::Type</a></td></tr></tbody></table></td></tr>
+      <tr><td>Tag Type (must be 1)</td><td>byte</td></tr>
       </tbody></table></td></tr>
     <tr><td>Tag Array</td><td><b>Array Size:</b> varint
       <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

@@ -6,7 +6,7 @@ Two-way packet.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
-<tr><td>Event Type</td><td><table><tbody><tr><td>int</td><td><a href="../enums/BossEventUpdateType.md">BossEventUpdateType</a></td></tr></tbody></table></td></tr>
+<tr><td>Event Type</td><td>unsigned varint</td></tr>
 <tr><td>Dependency on 'Event Type'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Name</td><td><table><tbody><tr><td>string</td><td>Name of the boss to add</td></tr></tbody></table></td></tr>

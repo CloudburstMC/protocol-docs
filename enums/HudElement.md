@@ -13,4 +13,6 @@ Index | Name
 8 | Hunger
 9 | AirBubbles
 10 | HorseHealth
-11 | Count
+11 | StatusEffects
+12 | ItemText
+13 | Count
