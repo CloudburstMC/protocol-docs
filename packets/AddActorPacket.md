@@ -20,7 +20,7 @@ Newly created entities on server use AddActorPacket to notify clients that they 
   <tr><td>Current Value</td><td>float</td></tr>
   <tr><td>Max Value</td><td>float</td></tr>
   </tbody></table></td></tr>
-<tr><td>Actor Data</td><td><a href="../types/DataItem[].md">std::vector&lt;class std::unique_ptr&lt;class DataItem,struct std::default_delete&lt;class DataItem&gt; &gt;,class std::allocator&lt;class std::unique_ptr&lt;class DataItem,struct std::default_delete&lt;class DataItem&gt; &gt; &gt; &gt;</a></td></tr>
+<tr><td>Actor Data</td><td><a href="../types/DataItem[].md">std::vector<class std::unique_ptr<class DataItem,struct std::default_delete<class DataItem> >,class std::allocator<class std::unique_ptr<class DataItem,struct std::default_delete<class DataItem> > > ></a></td></tr>
 <tr><td>Synched Properties</td><td><a href="../types/PropertySyncData.md">PropertySyncData</a></td></tr>
 <tr><td>Actor Links</td><td><b>Array Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

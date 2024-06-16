@@ -33,3 +33,4 @@ Index | Name
 28 | StriderRiddenInLavaInOverworld
 29 | SneakCloseToSculkSensor
 30 | CarefulRestoration
+31 | ItemUsedEvent

@@ -4,7 +4,7 @@ Index | Name
 --- | ---
 0 | Ascend
 1 | Descend
-2 | NorthJump
+2 | NorthJump_DEPRECATED
 3 | JumpDown
 4 | SprintDown
 5 | ChangeHeight
@@ -50,4 +50,5 @@ Index | Name
 45 | IsInClientPredictedVehicle
 46 | PaddlingLeft
 47 | PaddlingRight
-48 | INPUT_NUM
+48 | BlockBreakingDelayEnabled
+49 | INPUT_NUM

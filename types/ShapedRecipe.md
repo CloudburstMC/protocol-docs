@@ -14,4 +14,5 @@
 <tr><td>Recipe Tag</td><td>string</td></tr>
 <tr><td>Priority</td><td>varint</td></tr>
 <tr><td>Assume Symmetry</td><td>bool</td></tr>
+<tr><td>Unlocking Requirement</td><td><a href="../types/RecipeUnlockingRequirement.md">RecipeUnlockingRequirement</a></td></tr>
 </tbody></table>

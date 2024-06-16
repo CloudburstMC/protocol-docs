@@ -10,6 +10,6 @@ When an item actor is added to the world (punch a tree->tree block, for example)
 <tr><td>Item</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
 <tr><td>Position</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
 <tr><td>Velocity</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
-<tr><td>Entity Data</td><td><a href="../types/DataItem[].md">std::vector&lt;class std::unique_ptr&lt;class DataItem,struct std::default_delete&lt;class DataItem&gt; &gt;,class std::allocator&lt;class std::unique_ptr&lt;class DataItem,struct std::default_delete&lt;class DataItem&gt; &gt; &gt; &gt;</a></td></tr>
+<tr><td>Entity Data</td><td><a href="../types/DataItem[].md">std::vector<class std::unique_ptr<class DataItem,struct std::default_delete<class DataItem> >,class std::allocator<class std::unique_ptr<class DataItem,struct std::default_delete<class DataItem> > > ></a></td></tr>
 <tr><td>From Fishing?</td><td>bool</td></tr>
 </tbody></table>

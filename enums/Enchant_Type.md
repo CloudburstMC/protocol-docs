@@ -40,5 +40,8 @@ Index | Name
 35 | CrossbowQuickCharge
 36 | SoulSpeed
 37 | SwiftSneak
-38 | NumEnchantments
-39 | InvalidEnchantment
+38 | WindBurst
+39 | Density
+40 | Breach
+41 | NumEnchantments
+42 | InvalidEnchantment

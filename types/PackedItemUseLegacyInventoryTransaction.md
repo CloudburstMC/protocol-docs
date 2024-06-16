@@ -1,7 +1,7 @@
 # PackedItemUseLegacyInventoryTransaction
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>ID</td><td><a href="../types/TypedClientNetId_ItemStackLegacyRequestIdTag.md">TypedClientNetId&lt;struct ItemStackLegacyRequestIdTag,int,0&gt;</a></td></tr>
+<tr><td>ID</td><td><a href="../types/TypedClientNetId_ItemStackLegacyRequestIdTag.md">TypedClientNetId<struct ItemStackLegacyRequestIdTag,int,0></a></td></tr>
 <tr><td>Dependency on 'valid ID'</td><td><b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Container Slots</td><td><b>Array Size:</b> unsigned varint

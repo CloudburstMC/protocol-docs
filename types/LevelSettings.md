@@ -49,4 +49,7 @@
 <tr><td>Override force experimental gameplay has value</td><td><table><tbody><tr><td>bool</td><td>For servers this should always be false</td></tr></tbody></table></td></tr>
 <tr><td>ChatRestriction Level</td><td>byte</td></tr>
 <tr><td>DisablePlayerInteractions ?</td><td>bool</td></tr>
+<tr><td>Server Identifier</td><td>string</td></tr>
+<tr><td>World Identifier from the server.</td><td>string</td></tr>
+<tr><td>Scenario Identifier from the server.</td><td>string</td></tr>
 </tbody></table>

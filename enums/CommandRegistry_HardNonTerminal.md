@@ -90,3 +90,7 @@ NonTerminalBit | Epsilon
 0x100055 | BlockStateArrayCont
 0x100056 | Command
 0x100057 | SlashCommand
+0x100058 | CodeBuilderArg
+0x100059 | CodeBuilderArgs
+0x10005a | CodeBuilderSelectParam
+0x10005b | CodeBuilderSelector

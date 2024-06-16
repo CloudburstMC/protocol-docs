@@ -2,6 +2,7 @@
 
 Index | Name
 --- | ---
+3619 | 9800
 0 | Undefined
 1000 | SoundClick
 1001 | SoundClickFail
@@ -121,11 +122,15 @@ Index | Name
 3612 | ParticlesTrialSpawnerSpawning
 3613 | ParticlesTrialSpawnerEjecting
 3614 | ParticlesWindExplosion
-3615 | AllPlayersSleeping
-3616 | deprecated
+3615 | ParticlesTrialSpawnerDetectionCharged
+3616 | ParticlesTrialSpawnerBecomeCharged
+3617 | AllPlayersSleeping
+3618 | deprecated
 9801 | SleepingPlayers
 9810 | JumpPrevented
 9811 | AnimationVaultActivate
 9812 | AnimationVaultDeactivate
 9813 | AnimationVaultEjectItem
+9814 | AnimationSpawnCobweb
+9815 | ParticleSmashAttackGroundDust
 0x4000 | ParticleLegacyEvent

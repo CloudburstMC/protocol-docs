@@ -24,7 +24,6 @@
 | 20 | [PassengerJumpPacket](packets/PassengerJumpPacket.md) |
 | 21 | [UpdateBlockPacket](packets/UpdateBlockPacket.md) |
 | 22 | [AddPaintingPacket](packets/AddPaintingPacket.md) |
-| 23 | [TickSyncPacket](packets/TickSyncPacket.md) |
 | 24 | [LevelSoundEventPacketV1](packets/LevelSoundEventPacketV1.md) |
 | 25 | [LevelEventPacket](packets/LevelEventPacket.md) |
 | 26 | [BlockEventPacket](packets/BlockEventPacket.md) |
@@ -197,3 +196,4 @@
 | 306 | [PlayerToggleCrafterSlotRequestPacket](packets/PlayerToggleCrafterSlotRequestPacket.md) |
 | 307 | [SetPlayerInventoryOptionsPacket](packets/SetPlayerInventoryOptionsPacket.md) |
 | 308 | [SetHudPacket](packets/SetHudPacket.md) |
+| 309 | [AwardAchievementPacket](packets/AwardAchievementPacket.md) |

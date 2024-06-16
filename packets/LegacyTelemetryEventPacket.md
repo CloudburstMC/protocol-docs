@@ -123,5 +123,12 @@ This is a legacy packet and should not be used anymore, although server side tel
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Objective Name</td><td>string</td></tr>
   <tr><td>Code Builder Scoreboard Score</td><td>varint</td></tr>
+  </tbody></table><hr>
+  <b>if (31)</b><br>
+  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
+  <tr><td>Item Id</td><td>short</td></tr>
+  <tr><td>Item Aux</td><td>int</td></tr>
+  <tr><td>Use Method</td><td>int</td></tr>
+  <tr><td>Use Count</td><td>int</td></tr>
   </tbody></table></td></tr>
 </tbody></table>

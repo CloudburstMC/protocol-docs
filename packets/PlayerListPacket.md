@@ -8,7 +8,7 @@ Sent from the Server at the start of the game or when a player is added (or if t
 <tr><td>Action</td><td>byte</td></tr>
 <tr><td>Dependency on 'Action'</td><td><b>if (0)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Add Player List</td><td><b>Array Size:</b> unsigned varint
+  <tr><td>Add Player List</td><td><b>Entries Count:</b> unsigned varint
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>UUID</td><td><a href="../types/mce_UUID.md">mce::UUID</a></td></tr>
     <tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
@@ -25,7 +25,7 @@ Sent from the Server at the start of the game or when a player is added (or if t
   </tbody></table><hr>
   <b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Remove Player List</td><td><b>Array Size:</b> unsigned varint
+  <tr><td>Remove Player List</td><td><b>Entries Count:</b> unsigned varint
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>UUID</td><td><a href="../types/mce_UUID.md">mce::UUID</a></td></tr>
     </tbody></table></td></tr>

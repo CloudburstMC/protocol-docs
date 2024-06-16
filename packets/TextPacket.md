@@ -72,4 +72,5 @@ Used for commands, messages, and other info printed to the screen. Most of which
   </tbody></table></td></tr>
 <tr><td>Sender's XUID</td><td>string</td></tr>
 <tr><td>Platform Id</td><td>string</td></tr>
+<tr><td>Filtered Message</td><td>string</td></tr>
 </tbody></table>

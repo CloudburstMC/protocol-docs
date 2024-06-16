@@ -91,7 +91,7 @@ Index | Name
 86 | NetherNetNegotiationTimeout
 87 | NetherNetInactivityTimeout
 88 | StaleConnectionBeingReplaced
-89 | RealmsSessionNotFound
+89 | RealmsSessionNotFound_DEPRECATED
 90 | BadPacket
 91 | NetherNetFailedToCreateOffer
 92 | NetherNetFailedToCreateAnswer

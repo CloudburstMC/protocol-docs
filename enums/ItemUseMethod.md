@@ -19,4 +19,5 @@ Index | Name
 13 | Dyed
 14 | Traded
 15 | BrushingCompleted
-16 | _Count
+16 | OpenedVault
+17 | _Count

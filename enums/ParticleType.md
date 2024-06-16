@@ -95,4 +95,5 @@ Index | Name
 90 | VaultConnection
 91 | WindExplosion
 92 | WolfArmorCrack
-93 | _count
+93 | OminousItemSpawner
+94 | _count

@@ -25,7 +25,7 @@ Index | Name
 20 | PassengerJump
 21 | UpdateBlock
 22 | AddPainting
-23 | TickSync
+23 | TickSync_deprecated
 24 | LevelSoundEventV1
 25 | LevelEvent
 26 | TileEvent
@@ -211,4 +211,5 @@ Index | Name
 306 | PlayerToggleCrafterSlotRequestPacket
 307 | SetPlayerInventoryOptions
 308 | SetHudPacket
-309 | EndId
+309 | AwardAchievementPacket
+310 | EndId

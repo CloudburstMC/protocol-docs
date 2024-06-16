@@ -151,4 +151,5 @@ Index | Name
 141 | Projectile | BreezeWindChargeProjectile
 142 | Animal | Armadillo
 143 | Projectile | WindChargeProjectile
-144| SkeletonMonster | Bogged
+144 | SkeletonMonster | Bogged
+145 | OminousItemSpawner
