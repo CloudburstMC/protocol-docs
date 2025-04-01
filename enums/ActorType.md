@@ -153,3 +153,4 @@ Index | Name
 143 | Projectile | WindChargeProjectile
 144 | SkeletonMonster | Bogged
 145 | OminousItemSpawner
+146 | Monster | Creaking

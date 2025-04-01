@@ -10,4 +10,5 @@ This is related to MobEquipmentPackets, but armor specifically and passes ALL eq
 <tr><td>Torso</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
 <tr><td>Legs</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
 <tr><td>Feet</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
+<tr><td>Body</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
 </tbody></table>

@@ -24,7 +24,6 @@
 | 20 | [PassengerJumpPacket](packets/PassengerJumpPacket.md) |
 | 21 | [UpdateBlockPacket](packets/UpdateBlockPacket.md) |
 | 22 | [AddPaintingPacket](packets/AddPaintingPacket.md) |
-| 24 | [LevelSoundEventPacketV1](packets/LevelSoundEventPacketV1.md) |
 | 25 | [LevelEventPacket](packets/LevelEventPacket.md) |
 | 26 | [BlockEventPacket](packets/BlockEventPacket.md) |
 | 27 | [ActorEventPacket](packets/ActorEventPacket.md) |
@@ -114,7 +113,6 @@
 | 115 | [NetworkStackLatencyPacket](packets/NetworkStackLatencyPacket.md) |
 | 118 | [SpawnParticleEffectPacket](packets/SpawnParticleEffectPacket.md) |
 | 119 | [AvailableActorIdentifiersPacket](packets/AvailableActorIdentifiersPacket.md) |
-| 120 | [LevelSoundEventPacketV2](packets/LevelSoundEventPacketV2.md) |
 | 121 | [NetworkChunkPublisherUpdatePacket](packets/NetworkChunkPublisherUpdatePacket.md) |
 | 122 | [BiomeDefinitionListPacket](packets/BiomeDefinitionListPacket.md) |
 | 123 | [LevelSoundEventPacket](packets/LevelSoundEventPacket.md) |
@@ -152,7 +150,7 @@
 | 159 | [CameraShakePacket](packets/CameraShakePacket.md) |
 | 160 | [PlayerFogPacket](packets/PlayerFogPacket.md) |
 | 161 | [CorrectPlayerMovePredictionPacket](packets/CorrectPlayerMovePredictionPacket.md) |
-| 162 | [ItemComponentPacket](packets/ItemComponentPacket.md) |
+| 162 | [ItemRegistryPacket](packets/ItemRegistryPacket.md) |
 | 164 | [ClientboundDebugRendererPacket](packets/ClientboundDebugRendererPacket.md) |
 | 165 | [SyncActorPropertyPacket](packets/SyncActorPropertyPacket.md) |
 | 166 | [AddVolumeEntityPacket](packets/AddVolumeEntityPacket.md) |
@@ -197,3 +195,18 @@
 | 307 | [SetPlayerInventoryOptionsPacket](packets/SetPlayerInventoryOptionsPacket.md) |
 | 308 | [SetHudPacket](packets/SetHudPacket.md) |
 | 309 | [AwardAchievementPacket](packets/AwardAchievementPacket.md) |
+| 310 | [ClientboundCloseFormPacket](packets/ClientboundCloseFormPacket.md) |
+| 312 | [ServerboundLoadingScreenPacket](packets/ServerboundLoadingScreenPacket.md) |
+| 313 | [JigsawStructureDataPacket](packets/JigsawStructureDataPacket.md) |
+| 314 | [CurrentStructureFeaturePacket](packets/CurrentStructureFeaturePacket.md) |
+| 315 | [ServerboundDiagnosticsPacket](packets/ServerboundDiagnosticsPacket.md) |
+| 316 | [CameraAimAssistPacket](packets/CameraAimAssistPacket.md) |
+| 317 | [ContainerRegistryCleanupPacket](packets/ContainerRegistryCleanupPacket.md) |
+| 318 | [MovementEffectPacket](packets/MovementEffectPacket.md) |
+| 319 | [SetMovementAuthorityPacket](packets/SetMovementAuthorityPacket.md) |
+| 320 | [CameraAimAssistPresetsPacket](packets/CameraAimAssistPresetsPacket.md) |
+| 321 | [ClientCameraAimAssistPacket](packets/ClientCameraAimAssistPacket.md) |
+| 322 | [ClientMovementPredictionSyncPacket](packets/ClientMovementPredictionSyncPacket.md) |
+| 323 | [UpdateClientOptions](packets/UpdateClientOptions.md) |
+| 324 | [PlayerVideoCapturePacket](packets/PlayerVideoCapturePacket.md) |
+| 325 | [PlayerUpdateEntityOverridesPacket](packets/PlayerUpdateEntityOverridesPacket.md) |

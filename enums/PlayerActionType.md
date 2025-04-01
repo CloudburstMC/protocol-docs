@@ -40,4 +40,5 @@ Index | Name
 34 | StartFlying
 35 | StopFlying
 36 | ClientAckServerData
-37 | Count
+37 | StartUsingItem
+38 | Count

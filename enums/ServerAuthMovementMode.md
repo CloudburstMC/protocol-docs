@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | ClientAuthoritative
-1 | ServerAuthoritative
-2 | ServerAuthoritativeWithRewind
+0 | LegacyClientAuthoritativeV1
+1 | ClientAuthoritativeV2
+2 | ServerAuthoritativeV3

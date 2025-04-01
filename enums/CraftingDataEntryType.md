@@ -7,7 +7,7 @@ Index | Name
 2 | FurnaceRecipe
 3 | FurnaceAuxRecipe
 4 | MultiRecipe
-5 | ShulkerBoxRecipe
+5 | UserDataShapelessRecipe
 6 | ShapelessChemistryRecipe
 7 | ShapedChemistryRecipe
 8 | SmithingTransformRecipe

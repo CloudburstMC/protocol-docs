@@ -12,12 +12,12 @@ Sent from server to client representing a batch of subchunk data and the require
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>SubChunk Pos Offset</td><td><a href="../types/SubChunkPacket_SubChunkPosOffset.md">SubChunkPacket::SubChunkPosOffset</a></td></tr>
   <tr><td>SubChunk Request Result</td><td>byte</td></tr>
-  <tr><td>Dependency on 'Is SubChunk Request Result SuccessAllAir? or Cache Enabled?'</td><td><b>if (1)</b><br>
+  <tr><td>Dependency on 'Cache Disabled or SubChunk Request Result SuccessAllAir?'</td><td><b>If True</b><br>
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Serialized Sub Chunk</td><td>string</td></tr>
     </tbody></table></td></tr>
   <tr><td>Height Map Data Type</td><td>byte</td></tr>
-  <tr><td>Dependency on 'Height Map Has Data'</td><td><b>if (1)</b><br>
+  <tr><td>Dependency on 'Height Map Has Data'</td><td><b>If True</b><br>
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Subchunk Height Map[0][0]</td><td>byte</td></tr>
     <tr><td>Subchunk Height Map[0][1]</td><td>byte</td></tr>
@@ -276,7 +276,7 @@ Sent from server to client representing a batch of subchunk data and the require
     <tr><td>Subchunk Height Map[15][14]</td><td>byte</td></tr>
     <tr><td>Subchunk Height Map[15][15]</td><td>byte</td></tr>
     </tbody></table></td></tr>
-  <tr><td>Dependency on 'Cache Enabled'</td><td><b>if (1)</b><br>
+  <tr><td>Dependency on 'Cache Enabled'</td><td><b>If True</b><br>
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Blob Id</td><td>unsigned int64</td></tr>
     </tbody></table></td></tr>

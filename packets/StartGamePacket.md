@@ -2,12 +2,12 @@
 
 __ID: 11__
 
-Sent from the server to client when the game is starting (or client joins), gives ids and current tick.
+Sent from the server to client when the game is starting (or client joins), gives ids and current tick. The player movement mode is also specified here, see ServerAuthMovementMode enum documentation for details on the modes.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
-<tr><td>Target Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
-<tr><td>Actor Game Type</td><td>varint</td></tr>
+<tr><td>Entity ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
+<tr><td>Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
+<tr><td>Game Type</td><td>varint</td></tr>
 <tr><td>Position</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
 <tr><td>Rotation</td><td><a href="../types/Vec2.md">Vec2</a></td></tr>
 <tr><td>Settings</td><td><a href="../types/LevelSettings.md">LevelSettings</a></td></tr>
@@ -16,16 +16,12 @@ Sent from the server to client when the game is starting (or client joins), give
 <tr><td>Template Content Identity</td><td>string</td></tr>
 <tr><td>Is Trial?</td><td>bool</td></tr>
 <tr><td>Movement Settings</td><td><a href="../types/SyncedPlayerMovementSettings.md">SyncedPlayerMovementSettings</a></td></tr>
-<tr><td>Current Level Time</td><td>unsigned int64</td></tr>
+<tr><td>Level Current Time</td><td>unsigned int64</td></tr>
 <tr><td>Enchantment Seed</td><td>varint</td></tr>
-<tr><td>Block Properties</td><td><b>Array Size:</b> unsigned varint
+<tr><td>Block Properties</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Block Name</td><td>string</td></tr>
   <tr><td>Block Definition</td><td><a href="../types/CompoundTag.md">CompoundTag</a></td></tr>
-  </tbody></table></td></tr>
-<tr><td>Item List - every vanilla item must be present</td><td><b>Array Size:</b> unsigned varint
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Item Info</td><td><a href="../types/ItemData.md">ItemData</a></td></tr>
   </tbody></table></td></tr>
 <tr><td>Multiplayer Correlation Id</td><td><table><tbody><tr><td>string</td><td>A UUID to identify this multiplayer session.</td></tr></tbody></table></td></tr>
 <tr><td>Enable Item Stack Net Manager</td><td><table><tbody><tr><td>bool</td><td>Whether the new item stack net manager is enabled for server authoritative inventory. This will eventually be required.</td></tr></tbody></table></td></tr>

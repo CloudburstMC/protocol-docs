@@ -6,4 +6,3 @@ Index | Name
 1 | ExportFromSaveMode
 2 | ExportFromLoadMode
 3 | QuerySavedStructure
-4 | Import

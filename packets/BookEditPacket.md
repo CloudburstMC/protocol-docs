@@ -7,28 +7,28 @@ Sends the updated state of the book and quill item from client to server during 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Action</td><td>byte</td></tr>
 <tr><td>Book Slot</td><td>byte</td></tr>
-<tr><td>Dependency on 'Action'</td><td><b>if (0)</b><br>
+<tr><td>Dependency on 'Action'</td><td><b>ReplacePage</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Page Index</td><td>byte</td></tr>
-  <tr><td>Text A</td><td>string</td></tr>
-  <tr><td>Text B</td><td>string</td></tr>
+  <tr><td>Text 1</td><td>string</td></tr>
+  <tr><td>Text 2</td><td>string</td></tr>
   </tbody></table><hr>
-  <b>if (1)</b><br>
+  <b>AddPage</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Page Index</td><td>byte</td></tr>
-  <tr><td>Text A</td><td>string</td></tr>
-  <tr><td>Text B</td><td>string</td></tr>
+  <tr><td>Text 1</td><td>string</td></tr>
+  <tr><td>Text 2</td><td>string</td></tr>
   </tbody></table><hr>
-  <b>if (2)</b><br>
+  <b>DeletePage</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Page Index</td><td>byte</td></tr>
   </tbody></table><hr>
-  <b>if (3)</b><br>
+  <b>SwapPages</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Page Index A</td><td>byte</td></tr>
   <tr><td>Page Index B</td><td>byte</td></tr>
   </tbody></table><hr>
-  <b>if (4)</b><br>
+  <b>Finalize</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Text A</td><td>string</td></tr>
   <tr><td>Text B</td><td>string</td></tr>

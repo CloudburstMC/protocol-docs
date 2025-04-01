@@ -7,3 +7,4 @@ Index | Name
 2 | Spectator
 3 | Commands
 4 | Editor
+5 | LoadingScreen

@@ -12,4 +12,5 @@ Used by 3rd party content for the purpose of showing ui banners. There are 2 com
 <tr><td>Fade Out Time</td><td>varint</td></tr>
 <tr><td>Xuid</td><td>string</td></tr>
 <tr><td>Platform Online Id</td><td>string</td></tr>
+<tr><td>Filtered Title Message</td><td>string</td></tr>
 </tbody></table>
