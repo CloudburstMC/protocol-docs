@@ -10,5 +10,6 @@ This is used for updating an entire container. Example uses include: player resp
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Item stack</td><td><a href="../types/NetworkItemStackDescriptor.md">NetworkItemStackDescriptor</a></td></tr>
   </tbody></table></td></tr>
-<tr><td>ID of the particular container instance if this is a dynamic container, otherwise zero</td><td>unsigned varint</td></tr>
+<tr><td>Full Container Name</td><td><a href="../types/FullContainerName.md">FullContainerName</a></td></tr>
+<tr><td>Dynamic Container Size</td><td>unsigned varint</td></tr>
 </tbody></table>

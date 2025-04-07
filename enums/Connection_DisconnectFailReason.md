@@ -119,3 +119,4 @@ Index | Name
 114 | NetherNetNotLoggedIn
 115 | NetherNetClientSignalingError
 116 | SubClientLoginDisabled
+117 | DeepLinkTryingToOpenDemoWorldWhileSignedIn

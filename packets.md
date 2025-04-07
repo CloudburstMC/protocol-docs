@@ -202,3 +202,5 @@
 | 313 | [JigsawStructureDataPacket](packets/JigsawStructureDataPacket.md) |
 | 314 | [CurrentStructureFeaturePacket](packets/CurrentStructureFeaturePacket.md) |
 | 315 | [ServerboundDiagnosticsPacket](packets/ServerboundDiagnosticsPacket.md) |
+| 316 | [CameraAimAssistPacket](packets/CameraAimAssistPacket.md) |
+| 317 | [ContainerRegistryCleanupPacket](packets/ContainerRegistryCleanupPacket.md) |

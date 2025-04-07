@@ -220,4 +220,6 @@ Index | Name
 313 | JigsawStructureDataPacket
 314 | CurrentStructureFeaturePacket
 315 | ServerboundDiagnosticsPacket
-316 | EndId
+316 | CameraAimAssist
+317 | ContainerRegistryCleanup
+318 | EndId

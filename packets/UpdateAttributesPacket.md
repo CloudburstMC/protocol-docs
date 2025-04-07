@@ -12,6 +12,8 @@ Occasionally updating player attributes (buffs/debuffs, health, etc)
   <tr><td>Min Value</td><td>float</td></tr>
   <tr><td>Max Value</td><td>float</td></tr>
   <tr><td>Current Value</td><td>float</td></tr>
+  <tr><td>Default Min Value</td><td>float</td></tr>
+  <tr><td>Default Max Value</td><td>float</td></tr>
   <tr><td>Default Value</td><td>float</td></tr>
   <tr><td>Attribute Name</td><td>string</td></tr>
   <tr><td>Attribute Modifier</td><td><b>Array Size:</b> unsigned varint

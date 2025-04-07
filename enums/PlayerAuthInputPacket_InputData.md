@@ -51,4 +51,8 @@ Index | Name
 46 | PaddlingLeft
 47 | PaddlingRight
 48 | BlockBreakingDelayEnabled
-49 | INPUT_NUM
+49 | HorizontalCollision
+50 | VerticalCollision
+51 | DownLeft
+52 | DownRight
+53 | INPUT_NUM

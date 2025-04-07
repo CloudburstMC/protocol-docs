@@ -37,4 +37,5 @@ Index | Name
 31 | SonicBoom
 32 | Campfire
 33 | SoulCampfire
-34 | All
+34 | MaceSmash
+35 | All

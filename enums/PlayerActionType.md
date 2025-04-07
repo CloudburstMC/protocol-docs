@@ -26,7 +26,7 @@ Index | Name
 20 | DEPRECATED_UpdatedEnchantingSeed
 21 | StartSwimming
 22 | StopSwimming
-23 | StartSpinAttack
+23 | DEPRECATED_StartSpinAttack
 24 | StopSpinAttack
 25 | InteractWithBlock
 26 | PredictDestroyBlock
