@@ -222,4 +222,6 @@ Index | Name
 315 | ServerboundDiagnosticsPacket
 316 | CameraAimAssist
 317 | ContainerRegistryCleanup
-318 | EndId
+318 | MovementEffect
+319 | SetMovementAuthorityMode
+320 | EndId

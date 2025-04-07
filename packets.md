@@ -204,3 +204,5 @@
 | 315 | [ServerboundDiagnosticsPacket](packets/ServerboundDiagnosticsPacket.md) |
 | 316 | [CameraAimAssistPacket](packets/CameraAimAssistPacket.md) |
 | 317 | [ContainerRegistryCleanupPacket](packets/ContainerRegistryCleanupPacket.md) |
+| 318 | [MovementEffectPacket](packets/MovementEffectPacket.md) |
+| 319 | [SetMovementAuthorityPacket](packets/SetMovementAuthorityPacket.md) |

@@ -2,10 +2,10 @@
 
 __ID: 29__
 
-Occasionally updating player attributes (buffs/debuffs, health, etc)
+Occasionally updating player attributes (buffs/debuffs, health, etc) The following attributes are important to supply with valid PlayerInputTick values for player movement simulation: - movement_speed - underwater_movement_speed - lava_movement_speed - jump_strength - hunger
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Target Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
+<tr><td>RuntimeID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
 <tr><td>Attribute List</td><td><b>Array Size:</b> unsigned varint
   AttributeData - Helper Struct  
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
@@ -26,5 +26,5 @@ Occasionally updating player attributes (buffs/debuffs, health, etc)
     <tr><td>isSerializable?</td><td>bool</td></tr>
     </tbody></table></td></tr>
   </tbody></table></td></tr>
-<tr><td>Count of ticks since simulation started</td><td>unsigned varint64</td></tr>
+<tr><td>Tick</td><td><a href="../types/PlayerInputTick.md">PlayerInputTick</a></td></tr>
 </tbody></table>

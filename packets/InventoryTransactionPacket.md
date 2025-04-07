@@ -2,7 +2,7 @@
 
 __ID: 30__
 
-
+Sent for item interaction UI depending on if ItemStackNetManager is enabled as well as when the player uses items in gameplay. See ComplexInventoryTransaction::Type for more details
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Raw Id (32 bit signed)</td><td>varint</td></tr>

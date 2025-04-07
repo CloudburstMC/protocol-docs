@@ -55,4 +55,9 @@ Index | Name
 50 | VerticalCollision
 51 | DownLeft
 52 | DownRight
-53 | INPUT_NUM
+53 | StartUsingItem
+54 | IsCameraRelativeMovementEnabled
+55 | IsRotControlledByMoveDirection
+56 | StartSpinAttack
+57 | StopSpinAttack
+58 | INPUT_NUM

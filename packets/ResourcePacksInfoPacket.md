@@ -19,10 +19,6 @@ __ID: 6__
   <tr><td>Has Scripts</td><td>bool</td></tr>
   <tr><td>Is Addon Pack</td><td><table><tbody><tr><td>bool</td><td>Indicates this pack is part of an Add-On. Helps clients determine if the pack must be downloaded to join the server as Add-On packs are required to play without issues.</td></tr></tbody></table></td></tr>
   <tr><td>Is Ray Tracing Capable</td><td>bool</td></tr>
-  </tbody></table></td></tr>
-<tr><td>CDN URLs</td><td><b>Array Size:</b> unsigned varint
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>First</td><td>string</td></tr>
-  <tr><td>Second</td><td>string</td></tr>
+  <tr><td>CDN URL</td><td>string</td></tr>
   </tbody></table></td></tr>
 </tbody></table>

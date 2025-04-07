@@ -32,7 +32,7 @@
   </tbody></table><hr>
   <b>if (5)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Shulker Box Recipe</td><td><a href="../types/ShulkerBoxRecipe.md">ShulkerBoxRecipe</a></td></tr>
+  <tr><td>User Data Shapeless Recipe</td><td><a href="../types/UserDataShapelessRecipe.md">UserDataShapelessRecipe</a></td></tr>
   <tr><td>Net id</td><td><a href="../types/TypedServerNetId_RecipeNetIdTag.md">TypedServerNetId&lt;struct RecipeNetIdTag,unsigned int,0&gt;</a></td></tr>
   </tbody></table><hr>
   <b>if (6)</b><br>

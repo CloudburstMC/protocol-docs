@@ -2,7 +2,7 @@
 
 __ID: 11__
 
-Sent from the server to client when the game is starting (or client joins), gives ids and current tick.
+Sent from the server to client when the game is starting (or client joins), gives ids and current tick. The player movement mode is also specified here, see ServerAuthMovementMode enum documentation for details on the modes.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Target Actor ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
