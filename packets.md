@@ -197,3 +197,8 @@
 | 307 | [SetPlayerInventoryOptionsPacket](packets/SetPlayerInventoryOptionsPacket.md) |
 | 308 | [SetHudPacket](packets/SetHudPacket.md) |
 | 309 | [AwardAchievementPacket](packets/AwardAchievementPacket.md) |
+| 310 | [ClientboundCloseFormPacket](packets/ClientboundCloseFormPacket.md) |
+| 312 | [ServerboundLoadingScreenPacket](packets/ServerboundLoadingScreenPacket.md) |
+| 313 | [JigsawStructureDataPacket](packets/JigsawStructureDataPacket.md) |
+| 314 | [CurrentStructureFeaturePacket](packets/CurrentStructureFeaturePacket.md) |
+| 315 | [ServerboundDiagnosticsPacket](packets/ServerboundDiagnosticsPacket.md) |

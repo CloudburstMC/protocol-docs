@@ -10,4 +10,5 @@ Sent from server whenever the player's armor takes damage. This packet sends all
 <tr><td>Damage For Slot (Only Gets Written If Bit Is Set)</td><td>varint</td></tr>
 <tr><td>Damage For Slot (Only Gets Written If Bit Is Set)</td><td>varint</td></tr>
 <tr><td>Damage For Slot (Only Gets Written If Bit Is Set)</td><td>varint</td></tr>
+<tr><td>Damage For Slot (Only Gets Written If Bit Is Set)</td><td>varint</td></tr>
 </tbody></table>

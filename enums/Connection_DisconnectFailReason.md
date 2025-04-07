@@ -118,3 +118,4 @@ Index | Name
 113 | NetherNetNoSignalingChannel
 114 | NetherNetNotLoggedIn
 115 | NetherNetClientSignalingError
+116 | SubClientLoginDisabled

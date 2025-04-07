@@ -7,7 +7,7 @@ The new server auth inventory item transaction request. This is done in batches 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Requests</td><td><b>Array Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Client Request Id</td><td><a href="../types/TypedClientNetId_ItemStackRequestIdTag.md">TypedClientNetId<struct ItemStackRequestIdTag,int,0></a></td></tr>
+  <tr><td>Client Request Id</td><td><a href="../types/TypedClientNetId_ItemStackRequestIdTag.md">TypedClientNetId&lt;struct ItemStackRequestIdTag,int,0&gt;</a></td></tr>
   <tr><td>Actions</td><td><b>Array Size:</b> unsigned varint
     There are a variety of possible actions each with their own schema; this (Take) is just one example. Refer to the Item Stack Net Manager documentation.  
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

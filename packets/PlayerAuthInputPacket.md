@@ -25,7 +25,7 @@ Added for Server Authoritative Movement to sync all player input with the server
   </tbody></table></td></tr>
 <tr><td>Dependency on 'ItemStackRequest and PerformItemStackRequest bit set'</td><td><b>if (1)</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Client Request Id</td><td><a href="../types/TypedClientNetId_ItemStackRequestIdTag.md">TypedClientNetId<struct ItemStackRequestIdTag,int,0></a></td></tr>
+  <tr><td>Client Request Id</td><td><a href="../types/TypedClientNetId_ItemStackRequestIdTag.md">TypedClientNetId&lt;struct ItemStackRequestIdTag,int,0&gt;</a></td></tr>
   <tr><td>Actions</td><td><b>Array Size:</b> unsigned varint
     There are a variety of possible actions each with their own schema; this (Take) is just one example. Refer to the Item Stack Net Manager documentation.  
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

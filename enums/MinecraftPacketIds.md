@@ -118,7 +118,7 @@ Index | Name
 113 | SetLocalPlayerAsInit
 114 | UpdateSoftEnum
 115 | Ping
-116 | BlockPalette
+116 | BlockPalette_deprecated
 117 | ScriptCustomEvent
 118 | SpawnParticleEffect
 119 | AvailableActorIDList
@@ -202,6 +202,8 @@ Index | Name
 197 | ClientCheatAbilityPacket_Deprecated
 198 | CameraPresets
 199 | UnlockedRecipes
+200 | TitleSpecificPacketsStart
+299 | TitleSpecificPacketsEnd
 300 | CameraInstruction
 301 | CompressedBiomeDefinitionList
 302 | TrimData
@@ -212,4 +214,10 @@ Index | Name
 307 | SetPlayerInventoryOptions
 308 | SetHudPacket
 309 | AwardAchievementPacket
-310 | EndId
+310 | ClientboundCloseScreen
+311 | ClientboundLoadingScreenPacket_Deprecated
+312 | ServerboundLoadingScreenPacket
+313 | JigsawStructureDataPacket
+314 | CurrentStructureFeaturePacket
+315 | ServerboundDiagnosticsPacket
+316 | EndId

@@ -9,8 +9,8 @@ Index | Name
 4 | Destroy
 5 | Consume
 6 | Create
-7 | PlaceInItemContainer
-8 | TakeFromItemContainer
+7 | PlaceInItemContainer_DEPRECATED
+8 | TakeFromItemContainer_DEPRECATED
 9 | ScreenLabTableCombine
 10 | ScreenBeaconPayment
 11 | ScreenHUDMineBlock

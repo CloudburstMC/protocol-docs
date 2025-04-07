@@ -6,4 +6,5 @@
 <tr><td>Link Type</td><td>byte</td></tr>
 <tr><td>Immediate</td><td>bool</td></tr>
 <tr><td>Passenger Initiated</td><td><table><tbody><tr><td>bool</td><td>Whether the link was changed by the passenger</td></tr></tbody></table></td></tr>
+<tr><td>Vehicle Angular Velocity</td><td>float</td></tr>
 </tbody></table>

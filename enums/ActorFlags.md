@@ -2,7 +2,6 @@
 
 Index | Name
 --- | ---
--1 | Unknown
 0 | ONFIRE
 1 | SNEAKING
 2 | RIDING
