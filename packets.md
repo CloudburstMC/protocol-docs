@@ -152,7 +152,7 @@
 | 159 | [CameraShakePacket](packets/CameraShakePacket.md) |
 | 160 | [PlayerFogPacket](packets/PlayerFogPacket.md) |
 | 161 | [CorrectPlayerMovePredictionPacket](packets/CorrectPlayerMovePredictionPacket.md) |
-| 162 | [ItemComponentPacket](packets/ItemComponentPacket.md) |
+| 162 | [ItemRegistryPacket](packets/ItemRegistryPacket.md) |
 | 164 | [ClientboundDebugRendererPacket](packets/ClientboundDebugRendererPacket.md) |
 | 165 | [SyncActorPropertyPacket](packets/SyncActorPropertyPacket.md) |
 | 166 | [AddVolumeEntityPacket](packets/AddVolumeEntityPacket.md) |
@@ -207,3 +207,5 @@
 | 318 | [MovementEffectPacket](packets/MovementEffectPacket.md) |
 | 319 | [SetMovementAuthorityPacket](packets/SetMovementAuthorityPacket.md) |
 | 320 | [CameraAimAssistPresetsPacket](packets/CameraAimAssistPresetsPacket.md) |
+| 321 | [ClientCameraAimAssistPacket](packets/ClientCameraAimAssistPacket.md) |
+| 322 | [ClientMovementPredictionSyncPacket](packets/ClientMovementPredictionSyncPacket.md) |

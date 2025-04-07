@@ -10,6 +10,7 @@ Two-way packet.
 <tr><td>Dependency on 'Event Type'</td><td><b>Add</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Name</td><td><table><tbody><tr><td>string</td><td>Name of the boss to add</td></tr></tbody></table></td></tr>
+  <tr><td>FilteredName</td><td><table><tbody><tr><td>string</td><td>Filtered name of the boss to add</td></tr></tbody></table></td></tr>
   <tr><td>Health Percent</td><td><table><tbody><tr><td>float</td><td>Health value of the boss</td></tr></tbody></table></td></tr>
   <tr><td>Darken Screen</td><td><table><tbody><tr><td>unsigned short</td><td>A boolean value for whether or not we should darken the screen (has a 0 or 1 value)</td></tr></tbody></table></td></tr>
   <tr><td>Color</td><td>unsigned varint</td></tr>
@@ -30,6 +31,7 @@ Two-way packet.
   <b>Update Name</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Name</td><td>string</td></tr>
+  <tr><td>FilteredName</td><td>string</td></tr>
   </tbody></table><hr>
   <b>Update Properties</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

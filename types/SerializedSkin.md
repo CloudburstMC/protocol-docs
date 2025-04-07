@@ -34,8 +34,8 @@
   <tr><td>Is Default Piece</td><td>bool</td></tr>
   <tr><td>Product Id</td><td>string</td></tr>
   </tbody></table></td></tr>
-<tr><td>Piece Tint Colors Size</td><td>unsigned int</td></tr>
-<tr><td>Piece Tint Colors</td><td><table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
+<tr><td>Piece Tint Colors</td><td><b>Piece Tint Colors Size:</b> unsigned int
+  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Piece Type</td><td>string</td></tr>
   <tr><td>Piece Tint Colors</td><td><b>Piece Tint Color Colors Size:</b> unsigned int
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>

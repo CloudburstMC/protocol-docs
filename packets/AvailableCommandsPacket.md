@@ -9,9 +9,9 @@ This very large packet (>10k) sends the available slash commands as part of the 
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Value</td><td>string</td></tr>
   </tbody></table></td></tr>
-<tr><td>Enum Values</td><td><b>List Size:</b> unsigned varint
+<tr><td>Chained Subcommand Values</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Chained Subcommand Values</td><td>string</td></tr>
+  <tr><td>Chained Subcommand Value</td><td>string</td></tr>
   </tbody></table></td></tr>
 <tr><td>Post Fixes</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
@@ -22,7 +22,7 @@ This very large packet (>10k) sends the available slash commands as part of the 
   <tr><td>Name</td><td>string</td></tr>
   <tr><td>Values</td><td><b>List Size:</b> unsigned varint
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-    <tr><td>Dependency on '1 or 2 Byte Unsigned'</td><td><b>Enum Values Size <= 256</b><br>
+    <tr><td>Dependency on '1, 2 or 4 Bytes Unsigned'</td><td><b>Enum Values Size <= 256</b><br>
       <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
       <tr><td>Enum Value</td><td>byte</td></tr>
       </tbody></table><hr>

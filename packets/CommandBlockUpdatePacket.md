@@ -20,6 +20,7 @@ Sent when you close the command block screen on the client
 <tr><td>Command</td><td>string</td></tr>
 <tr><td>Last Output</td><td>string</td></tr>
 <tr><td>Name</td><td>string</td></tr>
+<tr><td>FilteredName</td><td>string</td></tr>
 <tr><td>Track Output?</td><td>bool</td></tr>
 <tr><td>Tick Delay</td><td>unsigned int</td></tr>
 <tr><td>Should execute on first tick?</td><td>bool</td></tr>

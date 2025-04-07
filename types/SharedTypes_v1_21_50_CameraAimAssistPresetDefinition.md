@@ -2,7 +2,6 @@
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Identifier</td><td>string</td></tr>
-<tr><td>Categories</td><td>string</td></tr>
 <tr><td>Exclusion List</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Block Id</td><td>string</td></tr>

@@ -22,4 +22,5 @@ Index | Name
 16 | WorldBuilder
 17 | NoClip
 18 | PrivilegedBuilder
-19 | AbilityCount
+19 | VerticalFlySpeed
+20 | AbilityCount

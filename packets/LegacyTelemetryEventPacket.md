@@ -126,9 +126,9 @@ This is a legacy packet and should not be used anymore, although server side tel
   </tbody></table><hr>
   <b>ItemUsedEvent</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Item Id</td><td>varint</td></tr>
-  <tr><td>Item Aux</td><td>varint</td></tr>
-  <tr><td>Use Method</td><td>varint</td></tr>
-  <tr><td>Count</td><td>varint</td></tr>
+  <tr><td>Item Id</td><td>short</td></tr>
+  <tr><td>Item Aux</td><td>int</td></tr>
+  <tr><td>Use Method</td><td>int</td></tr>
+  <tr><td>Count</td><td>int</td></tr>
   </tbody></table></td></tr>
 </tbody></table>

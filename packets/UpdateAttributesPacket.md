@@ -18,7 +18,7 @@ Occasionally updating player attributes (buffs/debuffs, health, etc) The followi
   <tr><td>Name</td><td>string</td></tr>
   <tr><td>Modifiers</td><td><b>List Size:</b> unsigned varint
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-    <tr><td>ID</td><td>string</td></tr>
+    <tr><td>Id</td><td>string</td></tr>
     <tr><td>Name</td><td>string</td></tr>
     <tr><td>Amount</td><td>float</td></tr>
     <tr><td>Operation</td><td>int</td></tr>

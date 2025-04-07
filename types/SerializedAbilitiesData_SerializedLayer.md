@@ -5,5 +5,6 @@
 <tr><td>AbilitiesSet</td><td>unsigned int</td></tr>
 <tr><td>AbilityValues</td><td>unsigned int</td></tr>
 <tr><td>FlySpeed</td><td>float</td></tr>
+<tr><td>VerticalFlySpeed</td><td>float</td></tr>
 <tr><td>WalkSpeed</td><td>float</td></tr>
 </tbody></table>

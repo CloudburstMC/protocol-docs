@@ -23,10 +23,6 @@ Sent from the server to client when the game is starting (or client joins), give
   <tr><td>Block Name</td><td>string</td></tr>
   <tr><td>Block Definition</td><td><a href="../types/CompoundTag.md">CompoundTag</a></td></tr>
   </tbody></table></td></tr>
-<tr><td>Item List - every vanilla item must be present</td><td><b>List Size:</b> unsigned varint
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Item Info</td><td><a href="../types/ItemData.md">ItemData</a></td></tr>
-  </tbody></table></td></tr>
 <tr><td>Multiplayer Correlation Id</td><td><table><tbody><tr><td>string</td><td>A UUID to identify this multiplayer session.</td></tr></tbody></table></td></tr>
 <tr><td>Enable Item Stack Net Manager</td><td><table><tbody><tr><td>bool</td><td>Whether the new item stack net manager is enabled for server authoritative inventory. This will eventually be required.</td></tr></tbody></table></td></tr>
 <tr><td>Server version</td><td><table><tbody><tr><td>string</td><td>For telemetry purposes - sending your own string with your own server name and version here would be useful for Mojang's telemetry.</td></tr></tbody></table></td></tr>

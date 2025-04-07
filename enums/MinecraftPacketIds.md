@@ -164,7 +164,7 @@ Index | Name
 159 | CameraShake
 160 | PlayerFogSetting
 161 | CorrectPlayerMovePredictionPacket
-162 | ItemComponentPacket
+162 | ItemRegistryPacket
 163 | FilterTextPacket_DEPRECATED
 164 | ClientBoundDebugRendererPacket
 165 | SyncActorProperty
@@ -225,4 +225,6 @@ Index | Name
 318 | MovementEffect
 319 | SetMovementAuthorityMode
 320 | CameraAimAssistPresets
-321 | EndId
+321 | ClientCameraAimAssist
+322 | ClientMovementPredictionSyncPacket
+323 | EndId
