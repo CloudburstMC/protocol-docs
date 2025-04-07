@@ -9,4 +9,5 @@ Only used in Server-Authoritative Movement. Sent periodically if the client has 
 <tr><td>Actor Bounding Box</td><td><a href="../types/ActorDataBoundingBoxComponent.md">ActorDataBoundingBoxComponent</a></td></tr>
 <tr><td>Movement Attributes</td><td><a href="../types/MovementAttributesComponent.md">MovementAttributesComponent</a></td></tr>
 <tr><td>Actor Unique ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>
+<tr><td>Actor Flying State</td><td><a href="../types/bool.md">bool</a></td></tr>
 </tbody></table>

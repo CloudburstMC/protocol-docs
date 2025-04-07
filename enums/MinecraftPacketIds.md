@@ -26,7 +26,7 @@ Index | Name
 21 | UpdateBlock
 22 | AddPainting
 23 | TickSync_deprecated
-24 | LevelSoundEventV1
+24 | LevelSoundEventV1_DEPRECATED
 25 | LevelEvent
 26 | TileEvent
 27 | ActorEvent
@@ -122,7 +122,7 @@ Index | Name
 117 | ScriptCustomEvent
 118 | SpawnParticleEffect
 119 | AvailableActorIDList
-120 | LevelSoundEventV2
+120 | LevelSoundEventV2_DEPRECATED
 121 | NetworkChunkPublisherUpdate
 122 | BiomeDefinitionList
 123 | LevelSoundEvent
@@ -227,4 +227,7 @@ Index | Name
 320 | CameraAimAssistPresets
 321 | ClientCameraAimAssist
 322 | ClientMovementPredictionSyncPacket
-323 | EndId
+323 | UpdateClientOptions
+324 | PlayerVideoCapturePacket
+325 | PlayerUpdateEntityOverridesPacket
+326 | EndId

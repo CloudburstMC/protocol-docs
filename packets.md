@@ -24,7 +24,6 @@
 | 20 | [PassengerJumpPacket](packets/PassengerJumpPacket.md) |
 | 21 | [UpdateBlockPacket](packets/UpdateBlockPacket.md) |
 | 22 | [AddPaintingPacket](packets/AddPaintingPacket.md) |
-| 24 | [LevelSoundEventPacketV1](packets/LevelSoundEventPacketV1.md) |
 | 25 | [LevelEventPacket](packets/LevelEventPacket.md) |
 | 26 | [BlockEventPacket](packets/BlockEventPacket.md) |
 | 27 | [ActorEventPacket](packets/ActorEventPacket.md) |
@@ -114,7 +113,6 @@
 | 115 | [NetworkStackLatencyPacket](packets/NetworkStackLatencyPacket.md) |
 | 118 | [SpawnParticleEffectPacket](packets/SpawnParticleEffectPacket.md) |
 | 119 | [AvailableActorIdentifiersPacket](packets/AvailableActorIdentifiersPacket.md) |
-| 120 | [LevelSoundEventPacketV2](packets/LevelSoundEventPacketV2.md) |
 | 121 | [NetworkChunkPublisherUpdatePacket](packets/NetworkChunkPublisherUpdatePacket.md) |
 | 122 | [BiomeDefinitionListPacket](packets/BiomeDefinitionListPacket.md) |
 | 123 | [LevelSoundEventPacket](packets/LevelSoundEventPacket.md) |
@@ -209,3 +207,6 @@
 | 320 | [CameraAimAssistPresetsPacket](packets/CameraAimAssistPresetsPacket.md) |
 | 321 | [ClientCameraAimAssistPacket](packets/ClientCameraAimAssistPacket.md) |
 | 322 | [ClientMovementPredictionSyncPacket](packets/ClientMovementPredictionSyncPacket.md) |
+| 323 | [UpdateClientOptions](packets/UpdateClientOptions.md) |
+| 324 | [PlayerVideoCapturePacket](packets/PlayerVideoCapturePacket.md) |
+| 325 | [PlayerUpdateEntityOverridesPacket](packets/PlayerUpdateEntityOverridesPacket.md) |
