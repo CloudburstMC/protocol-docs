@@ -60,4 +60,11 @@ Index | Name
 55 | IsRotControlledByMoveDirection
 56 | StartSpinAttack
 57 | StopSpinAttack
-58 | INPUT_NUM
+58 | IsHotbarOnlyTouch
+59 | JumpReleasedRaw
+60 | JumpPressedRaw
+61 | JumpCurrentRaw
+62 | SneakReleasedRaw
+63 | SneakPressedRaw
+64 | SneakCurrentRaw
+65 | INPUT_NUM

@@ -96,4 +96,8 @@ Index | Name
 91 | WindExplosion
 92 | WolfArmorCrack
 93 | OminousItemSpawner
-94 | _count
+94 | CreakingCrumble
+95 | PaleOakLeaves
+96 | EyeblossomOpen
+97 | EyeblossomClose
+98 | _count

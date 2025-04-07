@@ -133,4 +133,5 @@ Index | Name
 9813 | AnimationVaultEjectItem
 9814 | AnimationSpawnCobweb
 9815 | ParticleSmashAttackGroundDust
+9816 | ParticleCreakingHeartTrail
 0x4000 | ParticleLegacyEvent

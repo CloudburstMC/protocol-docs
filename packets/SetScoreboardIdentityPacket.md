@@ -6,10 +6,10 @@ Send an update packet for a player identity definition iff a tracked player has 
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Scoreboard Identity Packet Type</td><td>byte</td></tr>
-<tr><td>Identity Info</td><td><b>Array Size:</b> unsigned varint
+<tr><td>Scoreboard Identity Info</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Scoreboard Id</td><td><a href="../types/ScoreboardId.md">ScoreboardId</a></td></tr>
-  <tr><td>Dependency on 'Is Update Type'</td><td><b>if (1)</b><br>
+  <tr><td>Dependency on 'Is Update Type'</td><td><b>If True</b><br>
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Player Unique Id</td><td>varint64</td></tr>
     </tbody></table></td></tr>

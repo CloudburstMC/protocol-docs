@@ -13,10 +13,12 @@
 <tr><td>Horizontal Rotation Limit</td><td><a href="../types/Optional_class Vec2.md">std::optional&lt;class Vec2&gt;</a></td></tr>
 <tr><td>Vertical Rotation Limit</td><td><a href="../types/Optional_class Vec2.md">std::optional&lt;class Vec2&gt;</a></td></tr>
 <tr><td>Continue Targeting</td><td><a href="../types/Optional_bool.md">std::optional&lt;bool&gt;</a></td></tr>
+<tr><td>Block Listening Radius</td><td><a href="../types/Optional_float.md">std::optional&lt;float&gt;</a></td></tr>
 <tr><td>View Offset</td><td><a href="../types/Optional_class Vec2.md">std::optional&lt;class Vec2&gt;</a></td></tr>
 <tr><td>Entity Offset</td><td><a href="../types/Optional_class Vec3.md">std::optional&lt;class Vec3&gt;</a></td></tr>
 <tr><td>Radius</td><td><a href="../types/Optional_float.md">std::optional&lt;float&gt;</a></td></tr>
 <tr><td>Listener</td><td><a href="../types/Optional_enum CameraPreset_AudioListener.md">std::optional&lt;enum CameraPreset::AudioListener&gt;</a></td></tr>
 <tr><td>Player Effects</td><td><a href="../types/Optional_bool.md">std::optional&lt;bool&gt;</a></td></tr>
 <tr><td>Align target and camera forward</td><td><a href="../types/Optional_bool.md">std::optional&lt;bool&gt;</a></td></tr>
+<tr><td>Aim Assist</td><td><a href="../types/Optional_struct SharedTypes_v1_21_50_CameraPresetAimAssistDefinition.md">std::optional&lt;struct SharedTypes::v1_21_50::CameraPresetAimAssistDefinition&gt;</a></td></tr>
 </tbody></table>

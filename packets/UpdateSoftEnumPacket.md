@@ -6,7 +6,7 @@ This is used for the scoreboard and tag systems (overwhelmingly used by 3rd part
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Enum Name</td><td>string</td></tr>
-<tr><td>Values</td><td><b>Array Size:</b> unsigned varint
+<tr><td>Values</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Enum Value</td><td>string</td></tr>
   </tbody></table></td></tr>

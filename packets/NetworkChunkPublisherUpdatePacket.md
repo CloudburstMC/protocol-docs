@@ -7,8 +7,7 @@ Tells clients to update the chunk view for the local player.Used (from the serve
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>New position for view</td><td><a href="../types/BlockPos.md">BlockPos</a></td></tr>
 <tr><td>New radius for view</td><td>unsigned varint</td></tr>
-<tr><td>Server Built Chunks Size</td><td>unsigned int</td></tr>
-<tr><td>Server Built Chunks List</td><td><b>Array Size:</b> unsigned varint
+<tr><td>Server Built Chunks List</td><td><b>Server Built Chunks Size:</b> unsigned int
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Chunk Pos</td><td><a href="../types/ChunkPos.md">ChunkPos</a></td></tr>
   </tbody></table></td></tr>

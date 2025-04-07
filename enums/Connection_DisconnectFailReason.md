@@ -68,7 +68,7 @@ Index | Name
 63 | BlockMismatch
 64 | InvalidHeights
 65 | InvalidWidths
-66 | ConnectionLost
+66 | ConnectionLost_DEPRECATED
 67 | ZombieConnection
 68 | Shutdown
 69 | ReasonNotSet_DEPRECATED

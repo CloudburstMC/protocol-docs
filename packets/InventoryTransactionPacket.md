@@ -6,13 +6,13 @@ Sent for item interaction UI depending on if ItemStackNetManager is enabled as w
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Raw Id (32 bit signed)</td><td>varint</td></tr>
-<tr><td>Dependency on 'above ID (the legacy request ID) nonzero'</td><td><b>if (1)</b><br>
+<tr><td>Dependency on 'Above ID (the legacy request ID) nonzero'</td><td><b>If True</b><br>
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Legacy Set Item Slots</td><td><b>Array Size:</b> unsigned varint
+  <tr><td>Legacy Set Item Slots</td><td><b>List Size:</b> unsigned varint
     Only matters when ItemStackNetManager is enabled  
     <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Container Enum</td><td>byte</td></tr>
-    <tr><td>Slot vector</td><td><b>Array Size:</b> unsigned varint
+    <tr><td>Slot vector</td><td><b>List Size:</b> unsigned varint
       <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
       <tr><td>Slot</td><td>byte</td></tr>
       </tbody></table></td></tr>

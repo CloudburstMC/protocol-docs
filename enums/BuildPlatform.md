@@ -6,7 +6,7 @@ Index | Name
 2 | iOS
 3 | OSX
 4 | Amazon
-5 | GearVR
+5 | GearVR_Deprecated
 7 | UWP
 8 | Win32
 9 | Dedicated

@@ -206,3 +206,4 @@
 | 317 | [ContainerRegistryCleanupPacket](packets/ContainerRegistryCleanupPacket.md) |
 | 318 | [MovementEffectPacket](packets/MovementEffectPacket.md) |
 | 319 | [SetMovementAuthorityPacket](packets/SetMovementAuthorityPacket.md) |
+| 320 | [CameraAimAssistPresetsPacket](packets/CameraAimAssistPresetsPacket.md) |

@@ -6,7 +6,7 @@
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Ingredient</td><td><a href="../types/RecipeIngredient.md">RecipeIngredient</a></td></tr>
   </tbody></table></td></tr>
-<tr><td>Production List</td><td><b>Array Size:</b> unsigned varint
+<tr><td>Production List</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Produced Item</td><td><a href="../types/NetworkItemInstanceDescriptor.md">NetworkItemInstanceDescriptor</a></td></tr>
   </tbody></table></td></tr>

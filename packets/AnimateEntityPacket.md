@@ -11,7 +11,7 @@ The AnimateEntityPacket is used to trigger a one-off animation on the client it 
 <tr><td>Stop expression molang version</td><td>int</td></tr>
 <tr><td>mController</td><td><table><tbody><tr><td>string</td><td>The name of an animation controller</td></tr></tbody></table></td></tr>
 <tr><td>mBlendOutTime</td><td><table><tbody><tr><td>float</td><td>The amount of time to blend out of this animation</td></tr></tbody></table></td></tr>
-<tr><td>mRuntimeIds</td><td><b>Array Size:</b> unsigned varint
+<tr><td>mRuntimeIds</td><td><b>List Size:</b> unsigned varint
   ActorRuntimeIDs of the entities that will play the specified animation  
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>runtimeId</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>

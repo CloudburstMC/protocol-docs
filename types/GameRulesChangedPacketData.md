@@ -1,7 +1,7 @@
 # GameRulesChangedPacketData
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Rules List</td><td><b>Array Size:</b> unsigned varint
+<tr><td>Rules List</td><td><b>List Size:</b> unsigned varint
   <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
   <tr><td>Rule Name</td><td>string</td></tr>
   <tr><td>Can Be Modified By Player</td><td>bool</td></tr>

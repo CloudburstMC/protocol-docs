@@ -224,4 +224,5 @@ Index | Name
 317 | ContainerRegistryCleanup
 318 | MovementEffect
 319 | SetMovementAuthorityMode
-320 | EndId
+320 | CameraAimAssistPresets
+321 | EndId
