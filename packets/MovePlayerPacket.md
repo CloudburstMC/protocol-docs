@@ -2,7 +2,7 @@
 
 __ID: 19__
 
-This has different uses depending on the movement mode, see ServerAuthMovementMode enum documentation. In legacy client authoritative mode the client sends this to the server as the primary way of informing them of motion and input. It is sent when they have moved enough to warrant sending it, or every tick if they are in a vehicle. When in a vehicle they will also be sending a MoveActorAbsolutePacket for the vehicle they are controlling if it is client predicted. In client authoritative and server authoritative movement modes it is only intended as a client-bound packet. It forces the player to a specified position with slightly different behavior depending on the position mode. For similar packets that move the player, see also: - CorrectPlayerMovePredictionPacket (server authoritative) - SetActorMotionPacket
+For client authoritative and server authoritative movement modes, it is only intended as a client-bound packet. It forces the player to a specified position with slightly different behavior depending on the position mode. For similar packets that move the player, see also: - CorrectPlayerMovePredictionPacket (server authoritative) - SetActorMotionPacket
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Player Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>

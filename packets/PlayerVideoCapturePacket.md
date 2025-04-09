@@ -2,7 +2,7 @@
 
 __ID: 324__
 
-
+internalInternal. Used by a test command to start/stop video capture. Non-publish/test only.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Dependency on 'Action'</td><td><b>Start Video Capture</b><br>

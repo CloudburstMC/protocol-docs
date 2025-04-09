@@ -1,5 +1,5 @@
-# int
+# mce_Color
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Unsigned Int</td><td>unsigned int</td></tr>
+<tr><td>Color</td><td>int</td></tr>
 </tbody></table>

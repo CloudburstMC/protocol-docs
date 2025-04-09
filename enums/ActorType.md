@@ -154,3 +154,4 @@ Index | Name
 144 | SkeletonMonster | Bogged
 145 | OminousItemSpawner
 146 | Monster | Creaking
+147 | Animal | HappyGhast

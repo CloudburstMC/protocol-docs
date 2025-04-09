@@ -2,7 +2,7 @@
 
 __ID: 325__
 
-
+This will set/remove an override for the indicated property for a specific entity on a client or clear all overrides for that entity. Does not affect server property values.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Target ID</td><td><a href="../types/ActorUniqueID.md">ActorUniqueID</a></td></tr>

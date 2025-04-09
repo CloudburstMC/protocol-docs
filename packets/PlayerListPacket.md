@@ -20,6 +20,7 @@ Sent from the Server at the start of the game or when a player is added (or if t
     <tr><td>Is Teacher?</td><td>bool</td></tr>
     <tr><td>Is Host?</td><td>bool</td></tr>
     <tr><td>Is SubClient?</td><td>bool</td></tr>
+    <tr><td>Player Color</td><td><a href="../types/mce_Color.md">mce::Color</a></td></tr>
     </tbody></table></td></tr>
   <tr><td>Trusted Skin List</td><td><table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
     <tr><td>Is trusted skin</td><td>bool</td></tr>

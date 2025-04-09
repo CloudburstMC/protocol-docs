@@ -21,7 +21,6 @@
 | 17 | [TakeItemActorPacket](packets/TakeItemActorPacket.md) |
 | 18 | [MoveActorAbsolutePacket](packets/MoveActorAbsolutePacket.md) |
 | 19 | [MovePlayerPacket](packets/MovePlayerPacket.md) |
-| 20 | [PassengerJumpPacket](packets/PassengerJumpPacket.md) |
 | 21 | [UpdateBlockPacket](packets/UpdateBlockPacket.md) |
 | 22 | [AddPaintingPacket](packets/AddPaintingPacket.md) |
 | 25 | [LevelEventPacket](packets/LevelEventPacket.md) |
@@ -53,7 +52,6 @@
 | 52 | [CraftingDataPacket](packets/CraftingDataPacket.md) |
 | 54 | [GuiDataPickItemPacket](packets/GuiDataPickItemPacket.md) |
 | 56 | [BlockActorDataPacket](packets/BlockActorDataPacket.md) |
-| 57 | [PlayerInputPacket](packets/PlayerInputPacket.md) |
 | 58 | [LevelChunkPacket](packets/LevelChunkPacket.md) |
 | 59 | [SetCommandsEnabledPacket](packets/SetCommandsEnabledPacket.md) |
 | 60 | [SetDifficultyPacket](packets/SetDifficultyPacket.md) |
@@ -186,7 +184,6 @@
 | 198 | [CameraPresetsPacket](packets/CameraPresetsPacket.md) |
 | 199 | [UnlockedRecipesPacket](packets/UnlockedRecipesPacket.md) |
 | 300 | [CameraInstructionPacket](packets/CameraInstructionPacket.md) |
-| 301 | [CompressedBiomeDefinitionList](packets/CompressedBiomeDefinitionList.md) |
 | 302 | [TrimDataPacket](packets/TrimDataPacket.md) |
 | 303 | [OpenSignPacket](packets/OpenSignPacket.md) |
 | 304 | [AgentAnimationPacket](packets/AgentAnimationPacket.md) |
@@ -210,3 +207,5 @@
 | 323 | [UpdateClientOptions](packets/UpdateClientOptions.md) |
 | 324 | [PlayerVideoCapturePacket](packets/PlayerVideoCapturePacket.md) |
 | 325 | [PlayerUpdateEntityOverridesPacket](packets/PlayerUpdateEntityOverridesPacket.md) |
+| 326 | [PlayerLocationPacket](packets/PlayerLocationPacket.md) |
+| 327 | [ClientboundControlSchemeSetPacket](packets/ClientboundControlSchemeSetPacket.md) |

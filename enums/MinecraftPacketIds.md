@@ -22,7 +22,7 @@ Index | Name
 17 | TakeItemActor
 18 | MoveAbsoluteActor
 19 | MovePlayer
-20 | PassengerJump
+20 | PassengerJump_Deprecated
 21 | UpdateBlock
 22 | AddPainting
 23 | TickSync_deprecated
@@ -59,7 +59,7 @@ Index | Name
 54 | GuiDataPickItem
 55 | AdventureSettings_Deprecated
 56 | BlockActorData
-57 | PlayerInput
+57 | PlayerInput_Deprecated
 58 | FullChunkData
 59 | SetCommandsEnabled
 60 | SetDifficulty
@@ -205,7 +205,7 @@ Index | Name
 200 | TitleSpecificPacketsStart
 299 | TitleSpecificPacketsEnd
 300 | CameraInstruction
-301 | CompressedBiomeDefinitionList
+301 | CompressedBiomeDefinitionList_DEPRECATED
 302 | TrimData
 303 | OpenSign
 304 | AgentAnimation
@@ -230,4 +230,6 @@ Index | Name
 323 | UpdateClientOptions
 324 | PlayerVideoCapturePacket
 325 | PlayerUpdateEntityOverridesPacket
-326 | EndId
+326 | PlayerLocation
+327 | ClientboundControlSchemeSetPacket
+328 | EndId

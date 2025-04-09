@@ -120,3 +120,4 @@ Index | Name
 115 | NetherNetClientSignalingError
 116 | SubClientLoginDisabled
 117 | DeepLinkTryingToOpenDemoWorldWhileSignedIn
+118 | AsyncJoinTaskDenied
