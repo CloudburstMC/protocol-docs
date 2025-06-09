@@ -1,4 +1,4 @@
-# Puv::Legacy::LevelSoundEvent
+# SharedTypes::Legacy::LevelSoundEvent
 
 Index | Name
 --- | ---
@@ -157,7 +157,6 @@ Index | Name
 152 | ImitateEvocationIllager
 153 | ImitateGhast
 154 | ImitateHusk
-155 | ImitateIllusionIllager
 156 | ImitateMagmaCube
 157 | ImitatePolarBear
 158 | ImitateShulker
@@ -496,4 +495,33 @@ Index | Name
 528 | RecordCreatorMusicBox
 529 | RecordPrecipice
 530 | VaultRejectRewardedPlayer
-531 | Undefined
+531 | ImitateDrowned
+532 | ImitateCreaking
+533 | BundleInsertFail
+534 | SpongeAbsorb
+536 | CreakingHeartTrail
+537 | CreakingHeartSpawn
+538 | Activate
+539 | Deactivate
+540 | Freeze
+541 | Unfreeze
+542 | Open
+543 | OpenLong
+544 | Close
+545 | CloseLong
+546 | ImitatePhantom
+547 | ImitateZoglin
+548 | ImitateGuardian
+549 | ImitateRavager
+550 | ImitatePillager
+551 | PlaceInWater
+552 | StateChange
+553 | ImitateHappyGhast
+554 | UnequipGeneric
+555 | RecordTears
+556 | TheEndLightFlash
+557 | LeadLeash
+558 | LeadUnleash
+559 | LeadBreak
+560 | Unsaddle
+561 | Undefined

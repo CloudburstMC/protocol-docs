@@ -58,7 +58,6 @@
   				'LanguageCode'
   				'PlatformUserId'
   				'ThirdPartyName'
-  				'ThirdPartyNameOnly'
   				'PlatformOnlineId'
   				'PlatformOfflineId'
   				'DeviceId'

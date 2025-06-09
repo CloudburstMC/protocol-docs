@@ -200,7 +200,6 @@
 | 316 | [CameraAimAssistPacket](packets/CameraAimAssistPacket.md) |
 | 317 | [ContainerRegistryCleanupPacket](packets/ContainerRegistryCleanupPacket.md) |
 | 318 | [MovementEffectPacket](packets/MovementEffectPacket.md) |
-| 319 | [SetMovementAuthorityPacket](packets/SetMovementAuthorityPacket.md) |
 | 320 | [CameraAimAssistPresetsPacket](packets/CameraAimAssistPresetsPacket.md) |
 | 321 | [ClientCameraAimAssistPacket](packets/ClientCameraAimAssistPacket.md) |
 | 322 | [ClientMovementPredictionSyncPacket](packets/ClientMovementPredictionSyncPacket.md) |
@@ -209,3 +208,4 @@
 | 325 | [PlayerUpdateEntityOverridesPacket](packets/PlayerUpdateEntityOverridesPacket.md) |
 | 326 | [PlayerLocationPacket](packets/PlayerLocationPacket.md) |
 | 327 | [ClientboundControlSchemeSetPacket](packets/ClientboundControlSchemeSetPacket.md) |
+| 328 | [ServerScriptDebugDrawerPacket](packets/ServerScriptDebugDrawerPacket.md) |

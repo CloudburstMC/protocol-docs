@@ -6,3 +6,4 @@ Index | Name
 1 | HasData
 2 | AllTooHigh
 3 | AllTooLow
+4 | AllCopied

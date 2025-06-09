@@ -39,6 +39,6 @@ Index | Name
 33 | StopCrawling
 34 | StartFlying
 35 | StopFlying
-36 | ClientAckServerData
+36 | DEPRECATED_ClientAckServerData
 37 | StartUsingItem
 38 | Count

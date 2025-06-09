@@ -9,4 +9,5 @@
 <tr><td>View Offset</td><td><a href="../types/Optional_struct CameraInstruction_SetInstruction_ViewOffsetOption.md">std::optional&lt;struct CameraInstruction::SetInstruction::ViewOffsetOption&gt;</a></td></tr>
 <tr><td>Entity Offset</td><td><a href="../types/Optional_struct CameraInstruction_SetInstruction_EntityOffsetOption.md">std::optional&lt;struct CameraInstruction::SetInstruction::EntityOffsetOption&gt;</a></td></tr>
 <tr><td>Default</td><td><a href="../types/Optional_bool.md">std::optional&lt;bool&gt;</a></td></tr>
+<tr><td>Remove IgnoreStartingValuesComponent</td><td><a href="../types/bool.md">bool</a></td></tr>
 </tbody></table>

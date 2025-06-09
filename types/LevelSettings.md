@@ -52,4 +52,5 @@
 <tr><td>Server Identifier</td><td>string</td></tr>
 <tr><td>World Identifier from the server.</td><td>string</td></tr>
 <tr><td>Scenario Identifier from the server.</td><td>string</td></tr>
+<tr><td>Owner Identifier from the server.</td><td>string</td></tr>
 </tbody></table>

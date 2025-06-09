@@ -223,7 +223,7 @@ Index | Name
 316 | CameraAimAssist
 317 | ContainerRegistryCleanup
 318 | MovementEffect
-319 | SetMovementAuthorityMode
+319 | SetMovementAuthorityMode_DEPRECATED
 320 | CameraAimAssistPresets
 321 | ClientCameraAimAssist
 322 | ClientMovementPredictionSyncPacket
@@ -232,4 +232,5 @@ Index | Name
 325 | PlayerUpdateEntityOverridesPacket
 326 | PlayerLocation
 327 | ClientboundControlSchemeSetPacket
-328 | EndId
+328 | ServerScriptDebugDrawerPacket
+329 | EndId

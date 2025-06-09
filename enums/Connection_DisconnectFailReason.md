@@ -121,3 +121,6 @@ Index | Name
 116 | SubClientLoginDisabled
 117 | DeepLinkTryingToOpenDemoWorldWhileSignedIn
 118 | AsyncJoinTaskDenied
+119 | RealmsTimelineRequired
+120 | GuestWithoutHost
+121 | FailedToJoinExperience
