@@ -1,6 +1,7 @@
 # StructureTemplateDataResponsePacket
 
-__ID: 133__
+**ID: 133**  
+**Purpose: Structure Data Response**  
 
 Used to reply to a request for structure information.This is used in exporting from load, exporting from save, and querying saved structures from structure blocks.
 

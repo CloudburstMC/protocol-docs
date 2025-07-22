@@ -1,6 +1,7 @@
 # ShowProfilePacket
 
-__ID: 104__
+**ID: 104**  
+**Purpose: Show Profile**  
 
 The only use in vanilla is a test command called ProfileCommand. It makes the user's xbox profile popup.
 

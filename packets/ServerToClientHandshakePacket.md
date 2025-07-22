@@ -1,8 +1,9 @@
 # ServerToClientHandshakePacket
 
-__ID: 3__
+**ID: 3**  
+**Purpose: Server->Client Handshake**  
 
-Sent from the server at the end of the login packet.
+Sent from the server at the end of the login packet
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Handshake WebToken</td><td><table><tbody><tr><td>string</td><td>Base64 encoded JSON Web Token that contains the other relevant client properties.

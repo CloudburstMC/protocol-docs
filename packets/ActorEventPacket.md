@@ -1,11 +1,12 @@
 # ActorEventPacket
 
-__ID: 27__
+**ID: 27**  
+**Purpose: All kinds of actor state changes (see Actor::handleEntityEvent).**  
 
-All kinds of actor state changes (see Actor::handleEntityEvent) ranging from a crossbow being ready to fire to taming animals... ,
+Ranges from a crossbow being ready to fire to taming animals..., some of which may be obsolete (frex, ADD_PLAYER_LEVELS)
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Target Runtime ID</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
-<tr><td>Event ID</td><td>byte</td></tr>
+<tr><td>Target Runtime ID</td><td>Actor Runtime ID</td></tr>
+<tr><td>Event ID</td><td>enum enum ActorEvent</td></tr>
 <tr><td>Data</td><td>varint</td></tr>
 </tbody></table>

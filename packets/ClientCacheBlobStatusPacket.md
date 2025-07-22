@@ -1,6 +1,7 @@
 # ClientCacheBlobStatusPacket
 
-__ID: 135__
+**ID: 135**  
+**Purpose: Client Cache Blob Status Packet**  
 
 Sent periodically by the client to update the server on which blob it has (ACK) and which blobs it is lacking (MISS).Indicates status of binary blob transfers from server. Used heavily when server is sending chunks.
 

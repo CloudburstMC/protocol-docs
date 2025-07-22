@@ -1,6 +1,7 @@
 # NpcDialoguePacket
 
-__ID: 169__
+**ID: 169**  
+**Purpose: NpcDialoguePacket**  
 
 Sent from the server to client when remote firing an NPC dialogue window for a client.
 

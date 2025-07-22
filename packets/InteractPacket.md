@@ -1,6 +1,7 @@
 # InteractPacket
 
-__ID: 33__
+**ID: 33**  
+**Purpose: Interact**  
 
 Used for inventory button press and in _updateInteraction() for a variety of purposes.
 

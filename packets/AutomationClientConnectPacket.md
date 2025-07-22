@@ -1,6 +1,7 @@
 # AutomationClientConnectPacket
 
-__ID: 95__
+**ID: 95**  
+**Purpose: Initiates websocket connection.**  
 
 Only used though command to connect to server URLs. This is primarily used by EDU for connecting to their companion apps
 

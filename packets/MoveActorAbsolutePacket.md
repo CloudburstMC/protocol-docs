@@ -1,6 +1,7 @@
 # MoveActorAbsolutePacket
 
-__ID: 18__
+**ID: 18**  
+**Purpose: Move Actor Absolute**  
 
 This is used primarily for motion updates of all actors from server to client.
 

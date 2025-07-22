@@ -1,6 +1,7 @@
 # StartGamePacket
 
-__ID: 11__
+**ID: 11**  
+**Purpose: Start Game**  
 
 Sent from the server to client when the game is starting (or client joins), gives ids and current tick. The player movement mode is also specified here, see ServerAuthMovementMode enum documentation for details on the modes.
 
@@ -31,5 +32,6 @@ Sent from the server to client when the game is starting (or client joins), give
 <tr><td>World Template ID</td><td><a href="../types/mce_UUID.md">mce::UUID</a></td></tr>
 <tr><td>Server Enabled ClientSide Generation</td><td><table><tbody><tr><td>bool</td><td>BiomeComponentFactory needs to know about this toggle before we start parsing BiomeComponents</td></tr></tbody></table></td></tr>
 <tr><td>BlockNetworkIds Are Hashes</td><td>bool</td></tr>
+<tr><td>TickDeathSystems Enabled</td><td><table><tbody><tr><td>bool</td><td>Whether the new tick death systems are enabled. This will eventually be required.</td></tr></tbody></table></td></tr>
 <tr><td>NetworkPermissions</td><td><a href="../types/NetworkPermissions.md">NetworkPermissions</a></td></tr>
 </tbody></table>

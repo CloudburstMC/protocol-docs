@@ -1,4 +1,4 @@
-# SharedTypes_v1_21_80_CameraPreset
+# SharedTypes_v1_21_90_CameraPreset
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Name</td><td>string</td></tr>
@@ -19,7 +19,7 @@
 <tr><td>Radius</td><td><a href="../types/Optional_float.md">std::optional&lt;float&gt;</a></td></tr>
 <tr><td>Yaw Limit Min</td><td><a href="../types/Optional_float.md">std::optional&lt;float&gt;</a></td></tr>
 <tr><td>Yaw Limit Max</td><td><a href="../types/Optional_float.md">std::optional&lt;float&gt;</a></td></tr>
-<tr><td>Listener</td><td><a href="../types/Optional_enum SharedTypes_v1_21_80_CameraPreset_AudioListener.md">std::optional&lt;enum SharedTypes::v1_21_80::CameraPreset::AudioListener&gt;</a></td></tr>
+<tr><td>Listener</td><td><a href="../types/Optional_enum SharedTypes_v1_21_90_CameraPreset_AudioListener.md">std::optional&lt;enum SharedTypes::v1_21_90::CameraPreset::AudioListener&gt;</a></td></tr>
 <tr><td>Player Effects</td><td><a href="../types/Optional_bool.md">std::optional&lt;bool&gt;</a></td></tr>
 <tr><td>Aim Assist</td><td><a href="../types/Optional_struct SharedTypes_v1_21_50_CameraPresetAimAssistDefinition.md">std::optional&lt;struct SharedTypes::v1_21_50::CameraPresetAimAssistDefinition&gt;</a></td></tr>
 <tr><td>Control Scheme</td><td><a href="../types/Optional_enum ControlScheme_Scheme.md">std::optional&lt;enum ControlScheme::Scheme&gt;</a></td></tr>

@@ -1,6 +1,7 @@
 # ClientMovementPredictionSyncPacket
 
-__ID: 322__
+**ID: 322**  
+**Purpose: Sends client movement prediction information to the server**  
 
 Only used in Server-Authoritative Movement. Sent periodically if the client has received corrections from the server. Contains information about client-predictions that are relevant to movement.
 

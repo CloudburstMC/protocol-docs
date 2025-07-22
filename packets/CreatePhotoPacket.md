@@ -1,6 +1,7 @@
 # CreatePhotoPacket
 
-__ID: 171__
+**ID: 171**  
+**Purpose: CreatePhotoPacket**  
 
 Players now have the possibility to export photos from their portfolios into photo items in their inventory. EDU.
 

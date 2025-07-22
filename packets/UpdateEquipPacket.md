@@ -1,6 +1,7 @@
 # UpdateEquipPacket
 
-__ID: 81__
+**ID: 81**  
+**Purpose: Update Equip**  
 
 Seemingly only used for the Horse Inventory... More specifically when the player opens the horse inventory.
 

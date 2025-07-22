@@ -1,6 +1,7 @@
 # RequestChunkRadiusPacket
 
-__ID: 69__
+**ID: 69**  
+**Purpose: Request Chunk Radius**  
 
 The client can't just change the view radius without the server's approval, otherwise there could be holes on unrendered area.
 

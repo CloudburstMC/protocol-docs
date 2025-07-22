@@ -1,6 +1,7 @@
 # UpdateBlockSyncedPacket
 
-__ID: 110__
+**ID: 110**  
+**Purpose: Update Block Synced**  
 
 Used to sync moving blocks with clients so they render correctlyVariation of UpdateBlockPacket that includes information to sync entities with renderchunk generation.
 

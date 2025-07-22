@@ -1,6 +1,7 @@
 # EduUriResourcePacket
 
-__ID: 170__
+**ID: 170**  
+**Purpose: EduUriResourcePacket**  
 
 Transmits Edu Shared Uri Resource settings to all clients.
 

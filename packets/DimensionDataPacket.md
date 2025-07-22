@@ -1,6 +1,7 @@
 # DimensionDataPacket
 
-__ID: 180__
+**ID: 180**  
+**Purpose: DimensionDataPacket**  
 
 brief packet containing data-driven dimension properties
 

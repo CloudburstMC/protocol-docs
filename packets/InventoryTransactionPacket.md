@@ -1,6 +1,7 @@
 # InventoryTransactionPacket
 
-__ID: 30__
+**ID: 30**  
+**Purpose: Inventory Transaction**  
 
 Sent for item interaction UI depending on if ItemStackNetManager is enabled as well as when the player uses items in gameplay. See ComplexInventoryTransaction::Type for more details
 

@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | Start
-1 | Complete
-2 | Restart
+0 | start
+1 | complete
+2 | restart

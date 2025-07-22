@@ -1,10 +1,11 @@
 # SpawnExperienceOrbPacket
 
-__ID: 66__
+**ID: 66**  
+**Purpose: Spawn Experience Orb**  
 
-DEPRECATED
+Note: This can be seen as "ContainerWantSetSlotPacket" when sent from client to server. Currently, the client handles side-effects relating to it's own inventory, regardless of the success of the operation.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Position</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
+<tr><td>Position</td><td>X</td></tr>
 <tr><td>XP Value</td><td>varint</td></tr>
 </tbody></table>

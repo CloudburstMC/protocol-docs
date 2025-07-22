@@ -1,6 +1,7 @@
 # CameraAimAssistPresetsPacket
 
-__ID: 320__
+**ID: 320**  
+**Purpose: Camera aim-assist registry presets/categories data sent from the server to clients.**  
 
 Sent by the server to clients for initializing and updating the client aim-assist registry. AddToExisting operations are sent by the server when new presets/categories are added to the registry through creator facing APIs.
 

@@ -1,6 +1,7 @@
 # ClientboundControlSchemeSetPacket
 
-__ID: 327__
+**ID: 327**  
+**Purpose: Client-Bound Control Scheme Set Packet**  
 
 The server sends this packet to clients upon client requests or the execution of control scheme commands
 

@@ -1,6 +1,7 @@
 # PlayerLocationPacket
 
-__ID: 326__
+**ID: 326**  
+**Purpose: PlayerLocationPacket**  
 
 Updates the client with the position of a player in the same dimension outside of simulation distance, or whether to hide a player.
 

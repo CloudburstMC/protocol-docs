@@ -1,6 +1,7 @@
 # PlayerListPacket
 
-__ID: 63__
+**ID: 63**  
+**Purpose: Player List**  
 
 Sent from the Server at the start of the game or when a player is added (or if the game does a clean up of disconnected players)
 

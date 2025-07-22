@@ -1,6 +1,7 @@
 # PositionTrackingDBClientRequestPacket
 
-__ID: 154__
+**ID: 154**  
+**Purpose: PositionTrackingDBClientRequestPacket**  
 
 Client to server packet for server authoratative runtime database (with persistent LevelStorage backup) designed primarily to track lodestone stuff. See Position Tracking DB Notes.md in bedrock-docs.
 

@@ -1,6 +1,7 @@
 # CommandBlockUpdatePacket
 
-__ID: 78__
+**ID: 78**  
+**Purpose: Command Block Update**  
 
 Sent when you close the command block screen on the client
 

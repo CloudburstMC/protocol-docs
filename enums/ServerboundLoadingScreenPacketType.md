@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | Unknown
-1 | StartLoadingScreen
-2 | EndLoadingScreen
+0 | unknown
+1 | startloadingscreen
+2 | endloadingscreen

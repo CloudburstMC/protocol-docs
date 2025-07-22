@@ -1,6 +1,7 @@
 # EmotePacket
 
-__ID: 138__
+**ID: 138**  
+**Purpose: Emote Packet**  
 
 A client sends this to the server to notify other clients about the emote.Sent in both directions; by client to request that an emote is played and then from the server to the clients
 

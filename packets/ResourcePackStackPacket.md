@@ -1,6 +1,7 @@
 # ResourcePackStackPacket
 
-__ID: 7__
+**ID: 7**  
+**Purpose: Resource Pack Stack**  
 
 This is sent to the client in response to a ResourcePackClientResponsePacket which is fired when MinecraftGame starts.
 

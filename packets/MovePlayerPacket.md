@@ -1,6 +1,7 @@
 # MovePlayerPacket
 
-__ID: 19__
+**ID: 19**  
+**Purpose: Move Player**  
 
 For client authoritative and server authoritative movement modes, it is only intended as a client-bound packet. It forces the player to a specified position with slightly different behavior depending on the position mode. For similar packets that move the player, see also: - CorrectPlayerMovePredictionPacket (server authoritative) - SetActorMotionPacket
 

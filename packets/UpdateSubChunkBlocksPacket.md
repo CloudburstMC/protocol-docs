@@ -1,6 +1,7 @@
 # UpdateSubChunkBlocksPacket
 
-__ID: 172__
+**ID: 172**  
+**Purpose: UpdateSubChunkBlocksPacket**  
 
 Packet sent for every set of blocks changed in a sub chunk every tick.
 

@@ -2,156 +2,155 @@
 
 Index | Name
 --- | ---
-1 | Undefined
-0x000000ff | TypeMask
-0x00000100 | Mob
-0x00000200 | Mob | PathfinderMob
-0x00000800 | PathfinderMob | Monster
-0x00001000 | PathfinderMob | Animal
-0x00004000 | Animal | TamableAnimal
-0x00008000 | Mob | Ambient
-0x00010000 | Monster | UndeadMob
-0x00020000 | UndeadMob | ZombieMonster
-0x00040000 | Monster | Arthropod
-0x00080000 | Minecart
-0x00100000 | UndeadMob | SkeletonMonster
-0x00200000 | TamableAnimal | EquineAnimal
-0x00400000 | Projectile
-0x00800000 | AbstractArrow
-0x00002000 | PathfinderMob | WaterAnimal
-0x01000000 | PathfinderMob | VillagerBase
-10 | Animal | Chicken
-11 | Animal | Cow
-12 | Animal | Pig
-13 | Animal | Sheep
-14 | TamableAnimal | Wolf
-15 | VillagerBase | Villager
-16 | Animal | MushroomCow
-17 | WaterAnimal | Squid
-18 | Animal | Rabbit
-19 | Ambient | Bat
-20 | PathfinderMob | IronGolem
-21 | PathfinderMob | SnowGolem
-22 | TamableAnimal | Ocelot
-23 | EquineAnimal | Horse
-28 | Animal | PolarBear
-29 | Animal | Llama
-30 | TamableAnimal | Parrot
-31 | WaterAnimal | Dolphin
-24 | EquineAnimal | Donkey
-25 | EquineAnimal | Mule
-26 | EquineAnimal | UndeadMob | SkeletonHorse
-27 | EquineAnimal | UndeadMob | ZombieHorse
-32 | ZombieMonster | Zombie
-33 | Monster | Creeper
-34 | SkeletonMonster | Skeleton
-35 | Arthropod | Spider
-36 | UndeadMob | PigZombie
-37 | Monster | Slime
-38 | Monster | EnderMan
-39 | Arthropod | Silverfish
-40 | Arthropod | CaveSpider
-41 | Monster | Ghast
-42 | Monster | LavaSlime
-43 | Monster | Blaze
-44 | ZombieMonster | ZombieVillager
-45 | Monster | Witch
-46 | SkeletonMonster | Stray
-47 | ZombieMonster | Husk
-48 | SkeletonMonster | WitherSkeleton
-49 | Monster | Guardian
-50 | Monster | ElderGuardian
-51 | Mob | Npc
-52 | UndeadMob | WitherBoss
-53 | Monster | Dragon
-54 | Monster | Shulker
-55 | Arthropod | Endermite
-56 | Mob | Agent
-57 | Monster | Vindicator
-58 | UndeadMob | Phantom
-59 | Monster | IllagerBeast
-61 | Mob | ArmorStand
-62 | Mob | TripodCamera
-63 | Mob | Player
-64 | ItemEntity
-65 | PrimedTnt
-66 | FallingBlock
-67 | MovingBlock
-68 | Projectile | ExperiencePotion
-69 | Experience
-70 | EyeOfEnder
-71 | EnderCrystal
-72 | FireworksRocket
-73 | Projectile | AbstractArrow | Trident
-74 | Animal | Turtle
-75 | TamableAnimal | Cat
-76 | Projectile | ShulkerBullet
-77 | FishingHook
-78 | Chalkboard
-79 | Projectile | DragonFireball
-80 | Projectile | AbstractArrow | Arrow
-81 | Projectile | Snowball
-82 | Projectile | ThrownEgg
-83 | Painting
-85 | Projectile | LargeFireball
-86 | Projectile | ThrownPotion
-87 | Projectile | Enderpearl
-88 | LeashKnot
-89 | Projectile | WitherSkull
-90 | BoatRideable
-91 | Projectile | WitherSkullDangerous
-93 | LightningBolt
-94 | Projectile | SmallFireball
-95 | AreaEffectCloud
-101 | Projectile | LingeringPotion
-102 | Projectile | LlamaSpit
-103 | Projectile | EvocationFang
-104 | Monster | EvocationIllager
-105 | Monster | Vex
-84 | Minecart | MinecartRideable
-96 | Minecart | MinecartHopper
-97 | Minecart | MinecartTNT
-98 | Minecart | MinecartChest
-99 | Minecart | MinecartFurnace
-100 | Minecart | MinecartCommandBlock
-106 | Projectile | IceBomb
-107 | Balloon
-108 | WaterAnimal | Pufferfish
-109 | WaterAnimal | Salmon
-110 | ZombieMonster | Drowned
-111 | WaterAnimal | Tropicalfish
-112 | WaterAnimal | Fish
-113 | Animal | Panda
-114 | Monster | Pillager
-115 | VillagerBase | VillagerV2
-116 | ZombieMonster | ZombieVillagerV2
-117 | Shield
-118 | PathfinderMob | WanderingTrader
-119 | Lectern
-120 | Monster | ElderGuardianGhost
-121 | Animal | Fox
-122 | Mob | Bee
-123 | Mob | Piglin
-124 | Animal | Hoglin
-125 | Animal | Strider
-126 | UndeadMob | Zoglin
-127 | Mob | PiglinBrute
-128 | Animal | Goat
-129 | WaterAnimal | GlowSquid
-130 | Animal | Axolotl
-131 | Monster | Warden
-132 | Animal | Frog
-133 | WaterAnimal | Tadpole
-134 | Mob | Allay
-136 | BoatRideable | ChestBoatRideable
-137 | Llama | TraderLlama
-138 | Animal | Camel
-139 | Animal | Sniffer
-140 | Monster | Breeze
-141 | Projectile | BreezeWindChargeProjectile
-142 | Animal | Armadillo
-143 | Projectile | WindChargeProjectile
-144 | SkeletonMonster | Bogged
-145 | OminousItemSpawner
-146 | Monster | Creaking
-147 | Animal | HappyGhast
+1 | undefined
+256 | mob
+768 | pathfindermob
+2816 | monster
+4864 | animal
+21248 | tamableanimal
+33024 | ambient
+68352 | undeadmob
+199424 | zombiemonster
+264960 | arthropod
+524288 | minecart
+1116928 | skeletonmonster
+2118400 | equineanimal
+4194304 | projectile
+8388608 | abstractarrow
+8960 | wateranimal
+16777984 | villagerbase
+4874 | chicken
+4875 | cow
+4876 | pig
+4877 | sheep
+21262 | wolf
+16777999 | villager
+4880 | mushroomcow
+8977 | squid
+4882 | rabbit
+33043 | bat
+788 | irongolem
+789 | snowgolem
+21270 | ocelot
+2118423 | horse
+4892 | polarbear
+4893 | llama
+21278 | parrot
+8991 | dolphin
+2118424 | donkey
+2118425 | mule
+2186010 | skeletonhorse
+2186011 | zombiehorse
+199456 | zombie
+2849 | creeper
+1116962 | skeleton
+264995 | spider
+68388 | pigzombie
+2853 | slime
+2854 | enderman
+264999 | silverfish
+265000 | cavespider
+2857 | ghast
+2858 | lavaslime
+2859 | blaze
+199468 | zombievillager
+2861 | witch
+1116974 | stray
+199471 | husk
+1116976 | witherskeleton
+2865 | guardian
+2866 | elderguardian
+307 | npc
+68404 | witherboss
+2869 | dragon
+2870 | shulker
+265015 | endermite
+312 | agent
+2873 | vindicator
+68410 | phantom
+2875 | illagerbeast
+317 | armorstand
+318 | tripodcamera
+319 | player
+64 | itementity
+65 | primedtnt
+66 | fallingblock
+67 | movingblock
+4194372 | experiencepotion
+69 | experience
+70 | eyeofender
+71 | endercrystal
+72 | fireworksrocket
+12582985 | trident
+4938 | turtle
+21323 | cat
+4194380 | shulkerbullet
+77 | fishinghook
+78 | chalkboard
+4194383 | dragonfireball
+12582992 | arrow
+4194385 | snowball
+4194386 | thrownegg
+83 | painting
+4194389 | largefireball
+4194390 | thrownpotion
+4194391 | enderpearl
+88 | leashknot
+4194393 | witherskull
+90 | boatrideable
+4194395 | witherskulldangerous
+93 | lightningbolt
+4194398 | smallfireball
+95 | areaeffectcloud
+4194405 | lingeringpotion
+4194406 | llamaspit
+4194407 | evocationfang
+2920 | evocationillager
+2921 | vex
+524372 | minecartrideable
+524384 | minecarthopper
+524385 | minecarttnt
+524386 | minecartchest
+524387 | minecartfurnace
+524388 | minecartcommandblock
+4194410 | icebomb
+107 | balloon
+9068 | pufferfish
+9069 | salmon
+199534 | drowned
+9071 | tropicalfish
+9072 | fish
+4977 | panda
+2930 | pillager
+16778099 | villagerv2
+199540 | zombievillagerv2
+117 | shield
+886 | wanderingtrader
+119 | lectern
+2936 | elderguardianghost
+4985 | fox
+378 | bee
+379 | piglin
+4988 | hoglin
+4989 | strider
+68478 | zoglin
+383 | piglinbrute
+4992 | goat
+9089 | glowsquid
+4994 | axolotl
+2947 | warden
+4996 | frog
+9093 | tadpole
+390 | allay
+218 | chestboatrideable
+5021 | traderllama
+5002 | camel
+5003 | sniffer
+2956 | breeze
+4194445 | breezewindchargeprojectile
+5006 | armadillo
+4194447 | windchargeprojectile
+1117072 | bogged
+145 | ominousitemspawner
+2962 | creaking
+5011 | happyghast

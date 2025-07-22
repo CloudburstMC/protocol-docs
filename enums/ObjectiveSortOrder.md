@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | Ascending
-1 | Descending
+0 | ascending
+1 | descending

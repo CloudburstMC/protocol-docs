@@ -16,6 +16,7 @@ Index | Name
 10 | DeprecateOldBlockQueryNames
 11 | DeprecatedSnifferAndCamelQueries
 12 | LeafSupportingInFirstSolidBlockBelow
-13 | NumValidVersions
+13 | CarryingBlockQueryAllActors
+14 | NumValidVersions
 NumValidVersions - 1 | Latest
 Latest | HardcodedMolang

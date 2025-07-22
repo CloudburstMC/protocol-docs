@@ -1,13 +1,9 @@
 # UnlockedRecipesPacket
 
-__ID: 199__
-
-Sent from server to client, for all previously unlocked recipes on load and
+**ID: 199**  
+**Purpose: Sent from server to client, for all previously unlocked recipes on load and for any newly unlocked recipes during gameplay.**  
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Packet Type</td><td>unsigned int</td></tr>
-<tr><td>Unlocked Recipes List</td><td><b>List Size:</b> unsigned varint
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Recipe</td><td>string</td></tr>
-  </tbody></table></td></tr>
+<tr><td>Packet Type</td><td>enum UnlockedRecipesPacketPayload::PacketType</td></tr>
+<tr><td>Unlocked Recipes List</td><td>List Size</td></tr>
 </tbody></table>

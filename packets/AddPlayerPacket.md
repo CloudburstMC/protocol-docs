@@ -1,6 +1,7 @@
 # AddPlayerPacket
 
-__ID: 12__
+**ID: 12**  
+**Purpose: Add Player**  
 
 A new player joins the game; the server sends this packet to the *other* players.
 

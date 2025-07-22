@@ -1,6 +1,7 @@
 # CreativeContentPacket
 
-__ID: 145__
+**ID: 145**  
+**Purpose: Sent once by the server on startup to tell clients all of the items that can show up in the creative menu and recipe book.**  
 
 This packet contains two lists, one for all the groups and one for all the items. Groups can either have an icon with a name, or can be loose groups of items that don't have a name (anonymous groups). All items need a group to represent them. Groups will show up in each category based on the order they are provided in the list. Items will show up in the order that they are represented in this packet. Each item needs to reference the index of a group from the list of groups.
 

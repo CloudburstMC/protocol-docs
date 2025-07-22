@@ -2,7 +2,7 @@
 
 Index | Name
 --- | ---
--1 | Unknown
-0 | Warning
-1 | FinalWarning
-2 | TerminatingConnection
+-1 | unknown
+0 | warning
+1 | finalwarning
+2 | terminatingconnection

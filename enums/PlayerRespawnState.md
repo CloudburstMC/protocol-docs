@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | SearchingForSpawn
-1 | ReadyToSpawn
-2 | ClientReadyToSpawn
+0 | searchingforspawn
+1 | readytospawn
+2 | clientreadytospawn

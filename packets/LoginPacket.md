@@ -1,6 +1,7 @@
 # LoginPacket
 
-__ID: 1__
+**ID: 1**  
+**Purpose: Login**  
 
 Sent once from client to server at login.
 

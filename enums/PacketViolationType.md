@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
--1 | Unknown
-0 | PacketMalformed
+-1 | unknown
+0 | packetmalformed

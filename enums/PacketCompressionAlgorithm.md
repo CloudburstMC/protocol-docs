@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | ZLib
-1 | Snappy
-0xffff | None
+0 | zlib
+1 | snappy
+65535 | none

@@ -1,6 +1,7 @@
 # InventorySlotPacket
 
-__ID: 50__
+**ID: 50**  
+**Purpose: Inventory Slot**  
 
 Updates one slot in an inventory rather than the whole thing. So like animal inventory (horses, donkeys, etc) and chests.
 

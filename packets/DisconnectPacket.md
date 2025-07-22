@@ -1,6 +1,7 @@
 # DisconnectPacket
 
-__ID: 5__
+**ID: 5**  
+**Purpose: Disconnect Player**  
 
 Sent from server. It is not fired if you are in a singleplayer game and you leave, but it is fired when there are split-screen clients.
 

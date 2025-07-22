@@ -1,6 +1,7 @@
 # PlayerVideoCapturePacket
 
-__ID: 324__
+**ID: 324**  
+**Purpose: Start/stops video capture for a player. Non-publish/test only.**  
 
 internalInternal. Used by a test command to start/stop video capture. Non-publish/test only.
 

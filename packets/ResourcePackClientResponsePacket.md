@@ -1,6 +1,7 @@
 # ResourcePackClientResponsePacket
 
-__ID: 8__
+**ID: 8**  
+**Purpose: Resource Pack Client Response**  
 
 Sent to MinecraftGame to complete the resource pack loading process.
 

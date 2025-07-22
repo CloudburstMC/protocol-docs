@@ -1,6 +1,7 @@
 # MoveActorDeltaPacket
 
-__ID: 111__
+**ID: 111**  
+**Purpose: Move Actor Delta**  
 
 This packet is all the deltas of actors position, rotation, and head rotation. This is used for all actors.
 

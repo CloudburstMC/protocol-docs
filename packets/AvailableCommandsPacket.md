@@ -1,6 +1,7 @@
 # AvailableCommandsPacket
 
-__ID: 76__
+**ID: 76**  
+**Purpose: Available Commands**  
 
 This very large packet (>10k) sends the available slash commands as part of the login process.
 

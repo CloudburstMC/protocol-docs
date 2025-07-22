@@ -2,12 +2,12 @@
 
 Index | Name
 --- | ---
--1 | CONTAINER_ID_NONE
-0 | CONTAINER_ID_INVENTORY
-1 | CONTAINER_ID_FIRST
-100 | CONTAINER_ID_LAST
-119 | CONTAINER_ID_OFFHAND
-120 | CONTAINER_ID_ARMOR
-122 | CONTAINER_ID_SELECTION_SLOTS
-124 | CONTAINER_ID_PLAYER_ONLY_UI
-125 | CONTAINER_ID_REGISTRY
+-1 | container_id_none
+0 | container_id_inventory
+1 | container_id_first
+100 | container_id_last
+119 | container_id_offhand
+120 | container_id_armor
+122 | container_id_selection_slots
+124 | container_id_player_only_ui
+125 | container_id_registry

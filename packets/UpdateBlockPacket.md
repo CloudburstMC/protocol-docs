@@ -1,6 +1,7 @@
 # UpdateBlockPacket
 
-__ID: 21__
+**ID: 21**  
+**Purpose: Update Block**  
 
 Occasional packets sent from server when blocks update or are ticked. (For example, when digging.)
 

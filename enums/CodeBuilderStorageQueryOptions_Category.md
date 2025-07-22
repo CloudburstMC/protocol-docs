@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | None
-1 | CodeStatus
-2 | Instantiation
+0 | none
+1 | codestatus
+2 | instantiation

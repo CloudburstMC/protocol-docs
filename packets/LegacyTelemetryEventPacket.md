@@ -1,6 +1,7 @@
 # LegacyTelemetryEventPacket
 
-__ID: 65__
+**ID: 65**  
+**Purpose: Telemetry Event**  
 
 This is a legacy packet and should not be used anymore, although server side telemetry is not widely used/tested yet.
 

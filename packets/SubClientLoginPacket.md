@@ -1,6 +1,7 @@
 # SubClientLoginPacket
 
-__ID: 94__
+**ID: 94**  
+**Purpose: Sub Client Login**  
 
 This packet starts the login process of subclients (splitscreen)
 

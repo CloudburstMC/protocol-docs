@@ -1,6 +1,7 @@
 # CommandOutputPacket
 
-__ID: 79__
+**ID: 79**  
+**Purpose: Command Output**  
 
 "slash" command execution, server to client.
 

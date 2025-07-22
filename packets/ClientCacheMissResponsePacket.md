@@ -1,6 +1,7 @@
 # ClientCacheMissResponsePacket
 
-__ID: 136__
+**ID: 136**  
+**Purpose: Client Cache Miss Response Packet**  
 
 Any missing blob should just be thrown into one of these packet ASAP and sent.Only active in a *real* client-server scenario. This packet is just a list of pairs sent from server to client.
 

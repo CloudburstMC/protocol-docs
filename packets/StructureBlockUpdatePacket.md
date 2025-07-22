@@ -1,6 +1,7 @@
 # StructureBlockUpdatePacket
 
-__ID: 90__
+**ID: 90**  
+**Purpose: Structure Block Update**  
 
 After the client makes changes in the Structure Block Screen we tell the server to update based off of that. This only sent when you close the UI.
 

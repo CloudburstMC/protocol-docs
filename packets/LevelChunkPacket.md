@@ -1,6 +1,7 @@
 # LevelChunkPacket
 
-__ID: 58__
+**ID: 58**  
+**Purpose: Level Chunk Packet**  
 
 Used to start a chunk transaction.Used to start a Chunk Transaction - sends a list of hashes for the chunks it needs to send, followed by border blocks, block entities, and biomes.
 

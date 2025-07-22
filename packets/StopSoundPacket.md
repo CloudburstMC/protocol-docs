@@ -1,6 +1,7 @@
 # StopSoundPacket
 
-__ID: 87__
+**ID: 87**  
+**Purpose: Stop Sound**  
 
 Allows you to stop a sound or all sounds on all clients, only used in a /command
 

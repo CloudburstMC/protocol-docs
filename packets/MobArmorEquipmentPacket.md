@@ -1,6 +1,7 @@
 # MobArmorEquipmentPacket
 
-__ID: 32__
+**ID: 32**  
+**Purpose: Mob Armor Equipment**  
 
 This is related to MobEquipmentPackets, but armor specifically and passes ALL equipment changes at once instead of one slot at a time.
 

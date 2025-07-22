@@ -1,6 +1,7 @@
 # AddItemActorPacket
 
-__ID: 15__
+**ID: 15**  
+**Purpose: Add Item Actor**  
 
 When an item actor is added to the world (punch a tree->tree block, for example)
 

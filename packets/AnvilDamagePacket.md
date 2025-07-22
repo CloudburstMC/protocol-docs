@@ -1,6 +1,7 @@
 # AnvilDamagePacket
 
-__ID: 141__
+**ID: 141**  
+**Purpose: Anvil Damage Packet**  
 
 Requests an anvil to be damaged.Sends the current damage the anvil has taken per use from client.
 

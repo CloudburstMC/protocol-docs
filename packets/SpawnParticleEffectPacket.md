@@ -1,6 +1,7 @@
 # SpawnParticleEffectPacket
 
-__ID: 118__
+**ID: 118**  
+**Purpose: SpawnParticleEffectPacket**  
 
 This is not used for much anymore, only the Particle command (spawn particle by name at a location) and for
 

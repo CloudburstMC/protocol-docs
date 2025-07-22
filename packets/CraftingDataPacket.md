@@ -1,6 +1,7 @@
 # CraftingDataPacket
 
-__ID: 52__
+**ID: 52**  
+**Purpose: Crafting Data**  
 
 Sent from the server on level startup to send all recipes to the client. As of this writing it's a ~150k packet.
 

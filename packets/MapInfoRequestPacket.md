@@ -1,6 +1,7 @@
 # MapInfoRequestPacket
 
-__ID: 68__
+**ID: 68**  
+**Purpose: MapInfoRequestPacket**  
 
 In the case of the client being unable to find map data for a map item it sends a uuid for a map to the server.
 

@@ -1,6 +1,7 @@
 # BiomeDefinitionListPacket
 
-__ID: 122__
+**ID: 122**  
+**Purpose: Biome Definition List**  
 
 On world start, send clients the info for all available biomes.Sends the whole list of the biomes from server to the client at the start of the game from _sendLevelData()
 

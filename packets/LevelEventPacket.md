@@ -1,6 +1,7 @@
 # LevelEventPacket
 
-__ID: 25__
+**ID: 25**  
+**Purpose: Level Event**  
 
 Splash Potions, weather events, global pause, simlock commands, oh my!
 

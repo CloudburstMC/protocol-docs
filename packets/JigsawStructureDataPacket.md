@@ -1,6 +1,7 @@
 # JigsawStructureDataPacket
 
-__ID: 313__
+**ID: 313**  
+**Purpose: Jigsaw Structure data used by client jigsaw structure worldgen**  
 
 This packet contains a copy of the behavior pack jigsaw structure rulesSends the serialized jigsaw rule JSON to the client as it's needed on both the client and server.
 

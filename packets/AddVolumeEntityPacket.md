@@ -1,6 +1,7 @@
 # AddVolumeEntityPacket
 
-__ID: 166__
+**ID: 166**  
+**Purpose: AddVolumeEntityPacket**  
 
 Sends a volume entity's definition and components from server to client.
 

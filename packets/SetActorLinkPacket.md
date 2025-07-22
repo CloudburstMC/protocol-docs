@@ -1,6 +1,7 @@
 # SetActorLinkPacket
 
-__ID: 41__
+**ID: 41**  
+**Purpose: Set Actor Link**  
 
 Sent by both client and server, only received by LegacyClientHandler.
 

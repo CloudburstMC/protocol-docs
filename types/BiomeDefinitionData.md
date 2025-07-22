@@ -1,7 +1,7 @@
 # BiomeDefinitionData
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>id</td><td><a href="../types/Optional_unsigned short.md">std::optional&lt;unsigned short&gt;</a></td></tr>
+<tr><td>id</td><td><a href="../types/BiomeIdType.md">BiomeIdType</a></td></tr>
 <tr><td>temperature</td><td>float</td></tr>
 <tr><td>downfall</td><td>float</td></tr>
 <tr><td>red spore desnity</td><td>float</td></tr>

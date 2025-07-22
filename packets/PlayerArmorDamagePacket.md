@@ -1,6 +1,7 @@
 # PlayerArmorDamagePacket
 
-__ID: 149__
+**ID: 149**  
+**Purpose: PlayerArmorDamagePacket**  
 
 Sent from server whenever the player's armor takes damage. This packet sends all armor data at once.
 

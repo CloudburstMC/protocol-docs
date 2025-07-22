@@ -1,6 +1,7 @@
 # AddActorPacket
 
-__ID: 13__
+**ID: 13**  
+**Purpose: Add Actor (a.k.a. Entity)**  
 
 Newly created entities on server use AddActorPacket to notify clients that they exist.
 

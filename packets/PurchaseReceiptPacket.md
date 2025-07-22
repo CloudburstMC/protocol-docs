@@ -1,12 +1,10 @@
 # PurchaseReceiptPacket
 
-__ID: 92__
+**ID: 92**  
+**Purpose: Sent from client to server**  
 
-Sent from client to serverSent from the client after we make a purchase in the store OR if we login and our entitlements are verified.
+Sent from the client after we make a purchase in the store OR if we login and our entitlements are verified. It sends a vector of purchase receipts(string).There is a handler and a multiple senders.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Purchase Receipts</td><td><b>List Size:</b> unsigned varint
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Proof of Purchase</td><td>string</td></tr>
-  </tbody></table></td></tr>
+<tr><td>PurchaseReceipts</td><td><table><tbody><tr><td>List Size</td><td>Purchase Receipts</td></tr></tbody></table></td></tr>
 </tbody></table>

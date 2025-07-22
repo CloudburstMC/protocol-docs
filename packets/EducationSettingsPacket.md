@@ -1,6 +1,7 @@
 # EducationSettingsPacket
 
-__ID: 137__
+**ID: 137**  
+**Purpose: Education Settings Packet**  
 
 Transmits EducationLevelSettings to all clients.Currently transmits EducationLevelSettings to all clients when the game is starting.
 

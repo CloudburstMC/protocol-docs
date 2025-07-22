@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | Add
-1 | Remove
-2 | Replace
+0 | add
+1 | remove
+2 | replace

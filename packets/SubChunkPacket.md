@@ -1,6 +1,7 @@
 # SubChunkPacket
 
-__ID: 174__
+**ID: 174**  
+**Purpose: SubChunkPacket**  
 
 Sent from server to client representing a batch of subchunk data and the required information to place the subchunk in the correct part of the world
 

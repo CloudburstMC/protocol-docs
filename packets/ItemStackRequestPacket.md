@@ -1,6 +1,7 @@
 # ItemStackRequestPacket
 
-__ID: 147__
+**ID: 147**  
+**Purpose: ItemStackRequestPacket**  
 
 The new server auth inventory item transaction request. This is done in batches of items, and is as of Dec 2019
 

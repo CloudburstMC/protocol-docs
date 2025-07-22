@@ -1,11 +1,12 @@
 # RespawnPacket
 
-__ID: 45__
+**ID: 45**  
+**Purpose: Sent as a handshake between the client and server to respawn the player.**  
 
-Sent as a handshake between the client and server to respawn the player. For some reason each respawn 1 packet is sent from the client
+For some reason each respawn 1 packet is sent from the client and 3 are sent from the server.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Position</td><td><a href="../types/Vec3.md">Vec3</a></td></tr>
-<tr><td>State</td><td>byte</td></tr>
-<tr><td>Player Runtime Id</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
+<tr><td>Position</td><td>X</td></tr>
+<tr><td>State</td><td>enum PlayerRespawnState</td></tr>
+<tr><td>Player Runtime Id</td><td>Actor Runtime ID</td></tr>
 </tbody></table>

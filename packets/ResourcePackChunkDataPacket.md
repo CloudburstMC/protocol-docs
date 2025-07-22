@@ -1,8 +1,6 @@
 # ResourcePackChunkDataPacket
 
-__ID: 83__
-
-
+**ID: 83**  
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Resource Name</td><td>string</td></tr>

@@ -1,6 +1,7 @@
 # SetScoreboardIdentityPacket
 
-__ID: 112__
+**ID: 112**  
+**Purpose: Set Scoreboard Identity**  
 
 Send an update packet for a player identity definition iff a tracked player has logged in with a different display name.
 

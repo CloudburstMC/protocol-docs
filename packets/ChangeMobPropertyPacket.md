@@ -1,6 +1,7 @@
 # ChangeMobPropertyPacket
 
-__ID: 182__
+**ID: 182**  
+**Purpose: ChangeMobPropertyPacket**  
 
 packet containing data for changing mob property
 

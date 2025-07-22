@@ -1,6 +1,7 @@
 # SetHudPacket
 
-__ID: 308__
+**ID: 308**  
+**Purpose: SetHudPacket**  
 
 This packet is only used via the set hud command. This is for 3rd party content.
 

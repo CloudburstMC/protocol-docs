@@ -1,6 +1,7 @@
 # InventoryContentPacket
 
-__ID: 49__
+**ID: 49**  
+**Purpose: Inventory Content**  
 
 This is used for updating an entire container. Example uses include: player respawned, replace items command, 3rd party content calls sendInventory(), block picking.
 

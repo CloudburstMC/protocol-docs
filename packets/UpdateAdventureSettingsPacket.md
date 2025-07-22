@@ -1,6 +1,7 @@
 # UpdateAdventureSettingsPacket
 
-__ID: 188__
+**ID: 188**  
+**Purpose: UpdateAdventureSettingsPacket**  
 
 Sent by the server to update the state of AdventureSettings. Replaces the AdventureSettingsPacket for updating AdventureSettings from server to client.
 

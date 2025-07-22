@@ -1,6 +1,7 @@
 # TrimDataPacket
 
-__ID: 302__
+**ID: 302**  
+**Purpose: TrimDataPacket**  
 
 Sent from the server on level startup to send all trim patterns to the client.
 

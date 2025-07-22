@@ -1,6 +1,7 @@
 # SetSpawnPositionPacket
 
-__ID: 43__
+**ID: 43**  
+**Purpose: Set Spawn Position**  
 
 When a player logs in or the SetWorldSpawnCommand is used this is sent from the server to the client.
 

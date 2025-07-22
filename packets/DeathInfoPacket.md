@@ -1,14 +1,10 @@
 # DeathInfoPacket
 
-__ID: 189__
+**ID: 189**  
+**Purpose: Sent from the server to client when player dies (Level::onPlayerDeath).**  
 
-Sent from the server to client when player dies (Level::onPlayerDeath).
+mDeathCauseMessage: is untranslated cause of death string vector returned from ActorDamageSource
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Death Cause Attack Name</td><td>string</td></tr>
-<tr><td>Death Cause Message List</td><td><b>List Size:</b> unsigned varint
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>Death Cause Entity Name</td><td>string</td></tr>
-  <tr><td>Death Cause Entity Name</td><td>string</td></tr>
-  </tbody></table></td></tr>
+<tr><td>Death Cause Message</td><td>Death Cause Attack Name</td></tr>
 </tbody></table>

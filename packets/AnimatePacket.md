@@ -1,6 +1,7 @@
 # AnimatePacket
 
-__ID: 44__
+**ID: 44**  
+**Purpose: Animate Actor**  
 
 Combination of server bound and client bound packets to trigger animations.
 

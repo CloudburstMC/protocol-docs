@@ -2,9 +2,9 @@
 
 Index | Name
 --- | ---
-0 | None
-1 | NotStarted
-2 | InProgress
-3 | Paused
-4 | Error
-5 | Succeeded
+0 | none
+1 | notstarted
+2 | inprogress
+3 | paused
+4 | error
+5 | succeeded

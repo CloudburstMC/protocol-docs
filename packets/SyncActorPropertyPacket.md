@@ -1,6 +1,7 @@
 # SyncActorPropertyPacket
 
-__ID: 165__
+**ID: 165**  
+**Purpose: SyncActorPropertyPacket**  
 
 Allows us to synchronize Actor properties across the network.
 

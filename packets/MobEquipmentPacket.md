@@ -1,6 +1,7 @@
 # MobEquipmentPacket
 
-__ID: 31__
+**ID: 31**  
+**Purpose: Mob Equipment**  
 
 A bunch of things use this both server to client and can still be sent from the client if LocalPlayer's inventory doesn't match the inventory sent (deprecated pattern).
 

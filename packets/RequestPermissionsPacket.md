@@ -1,6 +1,7 @@
 # RequestPermissionsPacket
 
-__ID: 185__
+**ID: 185**  
+**Purpose: RequestPermissionsPacket**  
 
 Sent from client to server. Used to request a new Permissions Levels. Can only be used by Operators or Hosts.
 

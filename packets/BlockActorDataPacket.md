@@ -1,6 +1,7 @@
 # BlockActorDataPacket
 
-__ID: 56__
+**ID: 56**  
+**Purpose: Block Actor Data**  
 
 Sends the entire user data compound tag and the block position to the client.
 

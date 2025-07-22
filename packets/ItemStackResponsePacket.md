@@ -1,6 +1,7 @@
 # ItemStackResponsePacket
 
-__ID: 148__
+**ID: 148**  
+**Purpose: ItemStackResponsePacket**  
 
 The new server auth inventory item transaction response, sent from the server.
 

@@ -1,6 +1,7 @@
 # UpdateAbilitiesPacket
 
-__ID: 187__
+**ID: 187**  
+**Purpose: UpdateAbilitiesPacket**  
 
 Sent by the server to update the state of a player's Abilities.
 

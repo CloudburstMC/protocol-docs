@@ -1,6 +1,7 @@
 # ServerboundDiagnosticsPacket
 
-__ID: 315__
+**ID: 315**  
+**Purpose: ServerboundDiagnosticsPacket**  
 
 Sent from the client to the server IF ProfilerLite is enabled AND the creator toggle for
 

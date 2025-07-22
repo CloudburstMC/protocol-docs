@@ -1,6 +1,7 @@
 # RequestNetworkSettingsPacket
 
-__ID: 193__
+**ID: 193**  
+**Purpose: RequestNetworkSettingsPacket**  
 
 requests tunable options from host to client (compression threshold and algorithm)
 

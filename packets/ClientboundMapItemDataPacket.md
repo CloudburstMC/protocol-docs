@@ -1,6 +1,7 @@
 # ClientboundMapItemDataPacket
 
-__ID: 67__
+**ID: 67**  
+**Purpose: ClientboundMapItemDataPacket**  
 
 This is sent either if the user is creating a new map, if a map that exists cannot be found, or if the user is creating a locked copy of a map.
 

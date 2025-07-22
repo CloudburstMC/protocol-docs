@@ -1,6 +1,7 @@
 # TextPacket
 
-__ID: 9__
+**ID: 9**  
+**Purpose: Text Message**  
 
 Used for commands, messages, and other info printed to the screen. Most of which are server->client or server broadcasted to all clients,
 

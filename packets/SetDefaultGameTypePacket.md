@@ -1,6 +1,7 @@
 # SetDefaultGameTypePacket
 
-__ID: 105__
+**ID: 105**  
+**Purpose: Set Default Game Type**  
 
 Same as SetPlayerGameTypePacket & UpdatePlayerGameTypePacket, the only difference is that this changes the default for all clients
 

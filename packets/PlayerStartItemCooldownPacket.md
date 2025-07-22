@@ -1,6 +1,7 @@
 # PlayerStartItemCooldownPacket
 
-__ID: 176__
+**ID: 176**  
+**Purpose: Player Start Item Cooldown**  
 
 Packet sent by the player to start the cooldown on an item.
 

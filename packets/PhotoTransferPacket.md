@@ -1,6 +1,7 @@
 # PhotoTransferPacket
 
-__ID: 99__
+**ID: 99**  
+**Purpose: Photo Transfer**  
 
 There is a camera item in EDU and they can use it to take screenshots and add them to a scrapbook.
 

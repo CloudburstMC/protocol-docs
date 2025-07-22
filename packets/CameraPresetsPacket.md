@@ -1,6 +1,7 @@
 # CameraPresetsPacket
 
-__ID: 198__
+**ID: 198**  
+**Purpose: CameraPresetsPacket**  
 
 Used to sync CameraPresets data from server to clients.
 

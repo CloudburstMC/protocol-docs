@@ -1,6 +1,7 @@
 # ResourcePackDataInfoPacket
 
-__ID: 82__
+**ID: 82**  
+**Purpose: Resource Pack Data Info**  
 
 Sent from the serverFileChunkUploader during the initialization of the file uploader. This packet is sent to the primary client.
 

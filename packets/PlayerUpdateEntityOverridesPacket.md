@@ -1,6 +1,7 @@
 # PlayerUpdateEntityOverridesPacket
 
-__ID: 325__
+**ID: 325**  
+**Purpose: Updates client entity property override data**  
 
 This will set/remove an override for the indicated property for a specific entity on a client or clear all overrides for that entity. Does not affect server property values.
 

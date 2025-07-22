@@ -1,6 +1,7 @@
 # AvailableActorIdentifiersPacket
 
-__ID: 119__
+**ID: 119**  
+**Purpose: Available Actor Identifiers**  
 
 On world start, send clients the info for all available actors.Sends the whole list of actor identifiers at game start from the server.
 

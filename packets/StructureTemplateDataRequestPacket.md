@@ -1,6 +1,7 @@
 # StructureTemplateDataRequestPacket
 
-__ID: 132__
+**ID: 132**  
+**Purpose: Structure Data Request**  
 
 Used to request structure information from a server.How we want to get our structure: by capturing what is live in the world,
 

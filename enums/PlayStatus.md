@@ -2,13 +2,13 @@
 
 Index | Name
 --- | ---
-0 | LoginSuccess
-1 | LoginFailed_ClientOld
-2 | LoginFailed_ServerOld
-3 | PlayerSpawn
-4 | LoginFailed_InvalidTenant
-5 | LoginFailed_EditionMismatchEduToVanilla
-6 | LoginFailed_EditionMismatchVanillaToEdu
-7 | LoginFailed_ServerFullSubClient
-8 | LoginFailed_EditorMismatchEditorToVanilla
-9 | LoginFailed_EditorMismatchVanillaToEditor
+0 | loginsuccess
+1 | loginfailed_clientold
+2 | loginfailed_serverold
+3 | playerspawn
+4 | loginfailed_invalidtenant
+5 | loginfailed_editionmismatchedutovanilla
+6 | loginfailed_editionmismatchvanillatoedu
+7 | loginfailed_serverfullsubclient
+8 | loginfailed_editormismatcheditortovanilla
+9 | loginfailed_editormismatchvanillatoeditor
