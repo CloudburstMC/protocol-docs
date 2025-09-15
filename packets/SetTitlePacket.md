@@ -3,7 +3,7 @@
 **ID: 88**  
 **Purpose: Used by 3rd party content for the purpose of showing ui banners**  
 
-There are 2 commands associated with it: title and titleraw. Both of which have functionality to change fade in/out time for titles, sub titles, and action bar text.
+There are 2 commands associated with it: title and titleraw. Both of which have functionality to change fade in/out time for titles, sub titles, and action bar text. titleraw is using json to format so it will be bigger (i don't have an example)
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Title Type</td><td>enum SetTitlePacket TitleType</td></tr>

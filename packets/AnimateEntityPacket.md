@@ -1,20 +1,16 @@
 # AnimateEntityPacket
 
 **ID: 158**  
-**Purpose: AnimateEntityPacket**  
+**Purpose: The AnimateEntityPacket is used to trigger a one - off animation on the client it is sent to.**  
 
-The AnimateEntityPacket is used to trigger a one-off animation on the client it is sent to.
+Several properties can be specified in the following order: - The name of the animation (a string) that the specified entities are to play. - The next state to transition to (a string) once the specified animation is finished playing. - The stop expression (a string), the condition that determines when to transition to the next state. - The name of an animation controller (a string) that you would like to use. - The blend out time (a float), the amount of time to blend out of this animation. - A vector of ActorRuntimeIds of the entities that will play the specified animation.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>mAnimation</td><td><table><tbody><tr><td>string</td><td>The name of the animation that the specified entities are to play.</td></tr></tbody></table></td></tr>
-<tr><td>mNextState</td><td><table><tbody><tr><td>string</td><td>The next state to transition to once the specified animation is finished playing.</td></tr></tbody></table></td></tr>
+<tr><td>mAnimation</td><td>string</td></tr>
+<tr><td>mNextState</td><td>string</td></tr>
 <tr><td>mStopExpression</td><td>string</td></tr>
-<tr><td>Stop expression molang version</td><td>int</td></tr>
-<tr><td>mController</td><td><table><tbody><tr><td>string</td><td>The name of an animation controller</td></tr></tbody></table></td></tr>
-<tr><td>mBlendOutTime</td><td><table><tbody><tr><td>float</td><td>The amount of time to blend out of this animation</td></tr></tbody></table></td></tr>
-<tr><td>mRuntimeIds</td><td><b>List Size:</b> unsigned varint
-  ActorRuntimeIDs of the entities that will play the specified animation  
-  <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-  <tr><td>runtimeId</td><td><a href="../types/ActorRuntimeID.md">ActorRuntimeID</a></td></tr>
-  </tbody></table></td></tr>
+<tr><td>mStopExpressionVersion</td><td>int</td></tr>
+<tr><td>mController</td><td>string</td></tr>
+<tr><td>mBlendOutTime</td><td>float</td></tr>
+<tr><td>mRuntimeIds</td><td>List Size</td></tr>
 </tbody></table>

@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | armswing
-1 | shrug
+0 | ArmSwing
+1 | Shrug

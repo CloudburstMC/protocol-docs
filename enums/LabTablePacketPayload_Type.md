@@ -2,6 +2,6 @@
 
 Index | Name
 --- | ---
-0 | startcombine
-1 | startreaction
-2 | reset
+0 | StartCombine
+1 | StartReaction
+2 | Reset

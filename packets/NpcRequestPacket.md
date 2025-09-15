@@ -3,7 +3,7 @@
 **ID: 98**  
 **Purpose: Used for a number of interactions with the NPC Component**  
 
-A request is made from the client during an interaction with an NPC then the request is processed by the server. Actor MUST have the NPCComponent to be handled.
+A request is made from the client during an interaction with an NPC then the request is processed by the server. Actor MUST have the NPCComponent to be handled. We currently only use this for EDU, but the goal was to expose the NPC Component to creators.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>NPC Runtime ID</td><td>Actor Runtime ID</td></tr>

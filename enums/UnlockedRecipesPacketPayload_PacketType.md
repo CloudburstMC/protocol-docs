@@ -2,8 +2,8 @@
 
 Index | Name
 --- | ---
-0 | empty
-1 | initiallyunlockedrecipes
-2 | newlyunlockedrecipes
-3 | removeunlockedrecipes
-4 | removeallunlockedrecipes
+0 | Empty
+1 | InitiallyUnlockedRecipes
+2 | NewlyUnlockedRecipes
+3 | RemoveUnlockedRecipes
+4 | RemoveAllUnlockedRecipes

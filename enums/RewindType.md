@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | player
-1 | vehicle
+0 | Player
+1 | Vehicle

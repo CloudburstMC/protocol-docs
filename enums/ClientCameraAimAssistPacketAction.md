@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | setfromcamerapreset
-1 | clear
+0 | SetFromCameraPreset
+1 | Clear

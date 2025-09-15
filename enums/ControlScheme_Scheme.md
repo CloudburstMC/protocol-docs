@@ -2,8 +2,8 @@
 
 Index | Name
 --- | ---
-0 | LockedPlayerRelativeStrafe
-1 | CameraRelative
-2 | CameraRelativeStrafe
-3 | PlayerRelative
-4 | PlayerRelativeStrafe
+0 | locked_player_relative_strafe
+1 | camera_relative
+2 | camera_relative_strafe
+3 | player_relative
+4 | player_relative_strafe

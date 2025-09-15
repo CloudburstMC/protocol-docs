@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | positional
-1 | rotational
+0 | Positional
+1 | Rotational

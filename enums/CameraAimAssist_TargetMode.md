@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | Angle
-1 | Distance
+0 | angle
+1 | distance

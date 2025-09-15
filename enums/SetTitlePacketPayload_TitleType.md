@@ -2,12 +2,12 @@
 
 Index | Name
 --- | ---
-0 | clear
-1 | reset
-2 | title
-3 | subtitle
-4 | actionbar
-5 | times
-6 | titletextobject
-7 | subtitletextobject
-8 | actionbartextobject
+0 | Clear
+1 | Reset
+2 | Title
+3 | Subtitle
+4 | Actionbar
+5 | Times
+6 | TitleTextObject
+7 | SubtitleTextObject
+8 | ActionbarTextObject

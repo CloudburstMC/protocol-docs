@@ -2,9 +2,9 @@
 
 Index | Name
 --- | ---
-0 | peaceful
-1 | easy
-2 | normal
-3 | hard
-4 | count
-5 | unknown
+0 | Peaceful
+1 | Easy
+2 | Normal
+3 | Hard
+4 | Count
+5 | Unknown

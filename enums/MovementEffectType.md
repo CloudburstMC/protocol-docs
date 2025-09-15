@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | glide_boost
-1 | dolphin_boost
+0 | GLIDE_BOOST
+1 | DOLPHIN_BOOST

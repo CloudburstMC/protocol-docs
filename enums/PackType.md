@@ -11,4 +11,3 @@ Index | Name
 6 | Resources
 7 | Skins
 8 | WorldTemplate
-9 | Count

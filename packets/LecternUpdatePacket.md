@@ -8,5 +8,5 @@ It is a request from the client to either turn the page in the lectern or drop t
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>New page to show</td><td>unsigned byte</td></tr>
 <tr><td>Total Pages</td><td>unsigned byte</td></tr>
-<tr><td>Position of Lectern to update</td><td>Z</td></tr>
+<tr><td>Position of Lectern to update</td><td>X</td></tr>
 </tbody></table>

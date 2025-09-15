@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | add
-1 | stop
+0 | Add
+1 | Stop

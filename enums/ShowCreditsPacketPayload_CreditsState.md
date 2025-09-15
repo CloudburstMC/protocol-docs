@@ -2,5 +2,5 @@
 
 Index | Name
 --- | ---
-0 | start
-1 | finished
+0 | Start
+1 | Finished

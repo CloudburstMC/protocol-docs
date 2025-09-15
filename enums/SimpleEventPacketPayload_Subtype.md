@@ -2,7 +2,7 @@
 
 Index | Name
 --- | ---
-0 | uninitializedsubtype
-1 | enablecommands
-2 | disablecommands
-3 | unlockworldtemplatesettings
+0 | UninitializedSubtype
+1 | EnableCommands
+2 | DisableCommands
+3 | UnlockWorldTemplateSettings

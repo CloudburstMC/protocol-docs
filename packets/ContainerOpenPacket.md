@@ -6,6 +6,6 @@
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Container Id</td><td>unsigned byte</td></tr>
 <tr><td>Container Type</td><td>unsigned byte</td></tr>
-<tr><td>Position</td><td>Z</td></tr>
+<tr><td>Position</td><td>X</td></tr>
 <tr><td>Target Actor ID</td><td>Actor Unique ID</td></tr>
 </tbody></table>

@@ -2,7 +2,7 @@
 
 Index | Name
 --- | ---
-0 | game
-1 | editor
-2 | test
-3 | invalid
+0 | Game
+1 | Editor
+2 | Test
+3 | INVALID

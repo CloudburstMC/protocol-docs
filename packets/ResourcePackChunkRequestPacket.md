@@ -1,6 +1,7 @@
 # ResourcePackChunkRequestPacket
 
 **ID: 84**  
+**Purpose: Resource Pack Chunk Request**  
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Resource Name</td><td>string</td></tr>

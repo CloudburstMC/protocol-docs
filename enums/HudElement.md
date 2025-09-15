@@ -15,4 +15,3 @@ Index | Name
 10 | HorseHealth
 11 | StatusEffects
 12 | ItemText
-13 | Count

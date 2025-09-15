@@ -1,9 +1,7 @@
 # UpdatePlayerGameTypePacket
 
 **ID: 151**  
-**Purpose: Update Player Game Type**  
-
-The server will send this back to all clients on receipt of the SetPlayerGameTypePacket so that cached game type and permissions flags in mLevel on all clients is kept up to date.
+**Purpose: The server will send this back to all clients on receipt of the SetPlayerGameTypePacket so that cached game type and permissions flags in mLevel on all clients is kept up to date.**  
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>Player Game Type</td><td>enum GameType</td></tr>

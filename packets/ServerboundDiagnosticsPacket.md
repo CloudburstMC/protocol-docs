@@ -1,9 +1,7 @@
 # ServerboundDiagnosticsPacket
 
 **ID: 315**  
-**Purpose: ServerboundDiagnosticsPacket**  
-
-Sent from the client to the server IF ProfilerLite is enabled AND the creator toggle for
+**Purpose: Sent from the client to the server IF ProfilerLite is enabled AND the creator toggle for additional client telemetry is enabled AND new telemetry data is ready (every 500 ms).**  
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
 <tr><td>AvgFps</td><td>float</td></tr>

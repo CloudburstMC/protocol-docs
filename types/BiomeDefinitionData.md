@@ -4,10 +4,7 @@
 <tr><td>id</td><td><a href="../types/BiomeIdType.md">BiomeIdType</a></td></tr>
 <tr><td>temperature</td><td>float</td></tr>
 <tr><td>downfall</td><td>float</td></tr>
-<tr><td>red spore desnity</td><td>float</td></tr>
-<tr><td>blue spore density</td><td>float</td></tr>
-<tr><td>ash density</td><td>float</td></tr>
-<tr><td>white ash density</td><td>float</td></tr>
+<tr><td>foliage snow (0-1 how frozen the leaves look)</td><td>float</td></tr>
 <tr><td>depth</td><td>float</td></tr>
 <tr><td>scale</td><td>float</td></tr>
 <tr><td>map water color ARGB</td><td>int</td></tr>

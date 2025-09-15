@@ -203,9 +203,10 @@
 | 320 | [CameraAimAssistPresetsPacket](packets/CameraAimAssistPresetsPacket.md) |
 | 321 | [ClientCameraAimAssistPacket](packets/ClientCameraAimAssistPacket.md) |
 | 322 | [ClientMovementPredictionSyncPacket](packets/ClientMovementPredictionSyncPacket.md) |
-| 323 | [UpdateClientOptions](packets/UpdateClientOptions.md) |
+| 323 | [UpdateClientOptionsPacket](packets/UpdateClientOptionsPacket.md) |
 | 324 | [PlayerVideoCapturePacket](packets/PlayerVideoCapturePacket.md) |
 | 325 | [PlayerUpdateEntityOverridesPacket](packets/PlayerUpdateEntityOverridesPacket.md) |
 | 326 | [PlayerLocationPacket](packets/PlayerLocationPacket.md) |
 | 327 | [ClientboundControlSchemeSetPacket](packets/ClientboundControlSchemeSetPacket.md) |
 | 328 | [ServerScriptDebugDrawerPacket](packets/ServerScriptDebugDrawerPacket.md) |
+| 329 | [ServerboundPackSettingChangePacket](packets/ServerboundPackSettingChangePacket.md) |

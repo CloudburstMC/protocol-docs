@@ -9,4 +9,3 @@ Index | Name
 4 | RecipeNature
 5 | RecipeSearch
 6 | Survival
-7 | Count

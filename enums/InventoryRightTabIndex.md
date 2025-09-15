@@ -6,4 +6,3 @@ Index | Name
 1 | FullScreen
 2 | Crafting
 3 | Armor
-4 | Count

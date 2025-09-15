@@ -1,10 +1,10 @@
 # GameRulesChangedPacket
 
 **ID: 72**  
-**Purpose: Game Rules Changed**  
+**Purpose: Updates game rules.**  
 
-Sent from server whenever any combination of gamerules is changed. the underlying data is a vector of GameRules
+Informs client about any changes to the game rules.
 
 <table><thead><tr><th>Field</th><th>Info</th></tr></thead><tbody>
-<tr><td>Rules Data</td><td><a href="../types/GameRulesChangedPacketData.md">GameRulesChangedPacketData</a></td></tr>
+<tr><td>Rule Data</td><td>Rules List</td></tr>
 </tbody></table>

@@ -56,8 +56,8 @@ Index | Name
 51 | DownLeft
 52 | DownRight
 53 | StartUsingItem
-54 | IsCameraRelativeMovementEnabled
-55 | IsRotControlledByMoveDirection
+54 | IsCameraRelativeMovementEnabled_DEPRECATED
+55 | IsRotControlledByMoveDirection_DEPRECATED
 56 | StartSpinAttack
 57 | StopSpinAttack
 58 | IsHotbarOnlyTouch
